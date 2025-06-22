@@ -19,15 +19,18 @@ jobs:
 
     - name: npm grab epg
       run: |
+          git pull
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
           
     - name: Commit changes
       run: |
+          git rm -r --cached node_modules
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add ./guide/tvtv.us.xml
           git add ./guide/tvtv.us.xml.gz
+          git add 
           git commit -m "Update EPG"
           git push -u origin master
