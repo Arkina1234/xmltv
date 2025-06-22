@@ -31,6 +31,7 @@ jobs:
       run: |
           git config user.name "🧟 Brainz"
           git config user.email "<>"
-          git add -f epg/epg-channels.xml.gz
-          git commit -m "updated epg"
-          git push -f origin main
+          git add -f guide/tvtv.us.xml
+          git add -f guide/tvtv.us.xml.gz
+          git commit -m "update epg"
+          git push -f origin master
