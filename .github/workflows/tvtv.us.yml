@@ -1,7 +1,7 @@
 name: tvtv.us
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "* 1 * * *"
   pull_request:
     branches:
       - master
@@ -35,6 +35,7 @@ jobs:
           
     - name: Commit changes
       run: |
-          git add -A
+          git add -f guide/tvtv.us.xml
+          git add -f guide/tvtv.us.xml
           git diff --exit-code || git commit -am "update epg"
-          git push
+          git push -f orgin 
