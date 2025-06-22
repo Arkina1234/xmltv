@@ -26,12 +26,13 @@ jobs:
       run: |
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 --delay=1000
+          ls ./guide
           
     - name: Commit changes
       run: |
           git config user.name "🧟 Brainz"
           git config user.email "<>"
-          git add -f guide/tvtv.us.xml
-          git add -f guide/tvtv.us.xml.gz
+          git add ./guide/tvtv.us.xml
+          git add ./guide/tvtv.us.xml.gz
           git commit -m "update epg"
           git push -f origin master
