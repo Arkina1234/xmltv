@@ -29,8 +29,8 @@ jobs:
     - uses: JamesIves/github-pages-deploy-action@v4.3.3
       if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
       with:
-        branch: master
-        folder: .
+        branch: gh-pages
+        folder: .gh-pages
         git-config-name: GitHub Action
         git-config-email: action@github.com
         commit-message: 'update epg'
