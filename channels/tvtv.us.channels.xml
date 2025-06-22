@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="tvtv.us" lang="en" xmltv_id="73067" site_id="73067">Bounce TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="111043" site_id="111043">Court TV</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="48990" site_id="48990">Create</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="82462" site_id="82462">First Nations Experience</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="89922" site_id="89922">Grit</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="10269" site_id="10269">Home Shopping Network</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="10270" site_id="10270">HSN</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="89923" site_id="89923">ION Mystery</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="18633" site_id="18633">ION Television</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="117518" site_id="117518">ION Plus</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="16604" site_id="16604">Jewelry Television</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="92091" site_id="92091">Laff</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="33453" site_id="33453">PBS HD</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="62271" site_id="62271">PBS HD (Pacific)</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="101364" site_id="101364">PBS KIDS HD</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="11069" site_id="11069">QVC</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="82682" site_id="82682">QVC2</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="101260" site_id="101260">QVC3</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="56032" site_id="56032">Shop LC</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="56725" site_id="56725">World</channel>
 </channels>
