@@ -24,13 +24,12 @@ jobs:
           git config --global user.name "github-actions[bot]"
           rm -rf .git/
           git init
-          git clone https://github.com/Arkina1234/epg.git
-          git remote set-url origin git@github.com:Arkina1234/epg.git
           git status
           git branch -m master
 
     - name: npm grab epg
       run: |
+          git pull
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
