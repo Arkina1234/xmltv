@@ -30,7 +30,6 @@ jobs:
       if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
       with:
         branch: master
-        token: ${{ steps.create-deploy-token.outputs.token }}
         git-config-name: GitHub Action
           git-config-email: action@github.com
           commit-message: 'update epg'
