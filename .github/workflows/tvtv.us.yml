@@ -24,8 +24,6 @@ jobs:
 
     - name: npm grab epg
       run: |
-          rm -rf ./guide/tvtv.*
-          git init
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
@@ -34,6 +32,8 @@ jobs:
       run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
+          rm -rf .git/
+          git init
           (git push) || true
           git add -f guide/tvtv.us.xml
           git add -f guide/tvtv.us.xml.gz
