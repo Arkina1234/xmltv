@@ -36,6 +36,6 @@ jobs:
     - name: Commit changes
       run: |
           git add -f guide/tvtv.us.xml
-          git add -f guide/tvtv.us.xml
+          git add -f guide/tvtv.us.xml.gz
           git diff --exit-code || git commit -am "update epg"
-          git push -f orgin 
+          git push -f origin master
