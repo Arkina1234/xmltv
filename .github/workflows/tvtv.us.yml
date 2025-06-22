@@ -24,8 +24,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           rm -rf .git/
           git init
-          git remote add origin https://github.com/Arkina1234/epg.git
-          git remote set-url origin https://github.com/Arkina1234/epg.git
+          git clone https://github.com/Arkina1234/epg.git
+          git remote set-url origin git@github.com:Arkina1234/epg.git
           git status
           git branch -m master
 
