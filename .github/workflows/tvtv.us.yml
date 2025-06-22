@@ -19,15 +19,21 @@ jobs:
 
     - name: npm grab epg
       run: |
-          git branch --set-upstream-to origin/master
-          git pull
           npm install
           npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
           
     - name: Commit changes
       run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git tag -d $GITHUB_REF_NAME
+          git tag $GITHUB_REF_NAME
           git add -f ./guide/tvtv.us.*
-          git push -f origin master
+          git commit -a -m "update epg"
+          
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        force: true
+        tags: true
