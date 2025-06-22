@@ -30,4 +30,4 @@ jobs:
           git add -f ./guide/tvtv.us.xml
           git add -f ./guide/tvtv.us.xml.gz
           git commit -m "Update EPG"
-          git push
+          git push -f origin master
