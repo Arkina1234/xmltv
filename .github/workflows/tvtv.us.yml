@@ -19,7 +19,10 @@ jobs:
 
     - name: npm grab epg
       run: |
-          git pull
+          rm -rf .git/
+          git init
+          git remote add origin https://github.com/Arkina1234/epg.git
+          git status
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
@@ -28,8 +31,7 @@ jobs:
       run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git status
           git add -f -u guide/tvtv.us.xml
           git add -f -u guide/tvtv.us.xml.gz
           git commit -a -m "Update EPG"
-          git push origin master
+          git push -f origin master
