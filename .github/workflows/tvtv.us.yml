@@ -34,5 +34,5 @@ jobs:
       run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add ./guide/tvtv.us.*
-          git push origin master
+          git add -f ./guide/tvtv.us.*
+          git push -f origin master
