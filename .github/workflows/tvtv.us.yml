@@ -15,11 +15,6 @@ jobs:
     - name: checkout repository
       uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-
     - name: Set up Node
       uses: actions/setup-node@v4
       with:
@@ -41,5 +36,5 @@ jobs:
     - name: Commit changes
       run: |
           git add -A
-          git commit -m "update epg"
+          git diff --exit-code || git commit -am "update epg"
           git push
