@@ -24,7 +24,7 @@ jobs:
       run: |
           git pull
           npm install
-          npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
+          npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 --maxConnections=20 --timeout=90000
           ls ./guide
           
     - name: Commit changes
