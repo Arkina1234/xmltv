@@ -24,6 +24,7 @@ jobs:
 
     - name: npm grab epg
       run: |
+          rm -rf ./guide/tvtv.*
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
@@ -36,5 +37,5 @@ jobs:
           git checkout -B master
           git add -f guide/tvtv.us.xml
           git add -f guide/tvtv.us.xml.gz
-          git commit --allow-empty
-          git push -f origin master
+          git commit -m "update epg"
+          git push origin master
