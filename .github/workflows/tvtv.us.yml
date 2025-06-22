@@ -27,12 +27,13 @@ jobs:
           git pull
           npm install
           npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
+          ls ./guide
           
     - name: Commit changes
       run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git status
-          git add -f ./guide/tvtv.us.*
+          git add ./guide/tvtv.us.*
           git commit -m ""
-          git push -f origin master
+          git push origin master
