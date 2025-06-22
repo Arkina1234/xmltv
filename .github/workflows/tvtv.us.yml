@@ -29,5 +29,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git add -f guide/tvtv.us.xml
           git add -f guide/tvtv.us.xml.gz
+          git add -f node_modules/
+          git add -f temp/
           git commit -m "Update EPG"
           git push -u origin master
