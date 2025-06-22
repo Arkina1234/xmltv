@@ -27,7 +27,7 @@ jobs:
           rm -rf .git
           git init
           git remote add origin https://github.com/Arkina1234/epg.git
-          git pull origin master
+          git pull -u
           npm install
           npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
