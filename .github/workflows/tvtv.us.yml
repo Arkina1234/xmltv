@@ -31,6 +31,8 @@ jobs:
     - name: Commit changes
       run: |
           git pull
+          git config --global user.email ""
+          git config --global user.name "Your Name"
           git add -A
           git commit -m "update epg"
           git push
