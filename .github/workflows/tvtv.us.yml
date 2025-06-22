@@ -11,9 +11,6 @@ jobs:
     steps:
     - name: checkout repository
       uses: actions/checkout@v4
-      with:
-        ref: ${{ github.head_ref }}
-        fetch-depth: 0
 
     - name: Set up Node
       uses: actions/setup-node@v4
@@ -22,15 +19,15 @@ jobs:
 
     - name: npm grab epg
       run: |
-          git pull
           npm install
-          npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 --maxConnections=20 --timeout=90000
+          npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 --maxConnections=20 --timeout=90000
           ls ./guide
           
     - name: Commit changes
       run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add -f ./guide/tvtv.us.*
-          git commit -a -m "update epg"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -f guide/tvtv.us.xml
+          git add -f guide/tvtv.us.xml.gz
+          git commit -m "update epg"
           git push -u origin master
