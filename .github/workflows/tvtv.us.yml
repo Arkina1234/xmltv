@@ -1,7 +1,7 @@
 name: tvtv.us
 on:
   schedule:
-    - cron: "* 1 * * *"
+    - cron: "0 1 * * *"
   pull_request:
     branches:
       - master
@@ -19,13 +19,6 @@ jobs:
       uses: actions/setup-node@v4
       with:
            node-version: 18
-
-    - name: Config
-      run: |
-          git pull
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-
           
     - name: npm grab epg
       run: |
@@ -33,9 +26,13 @@ jobs:
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
           
-    - name: Commit changes
-      run: |
-          git add -f guide/tvtv.us.xml
-          git add -f guide/tvtv.us.xml.gz
-          git diff --exit-code || git commit -am "update epg"
-          git push -f origin master
+    - uses: JamesIves/github-pages-deploy-action@v4.3.3
+      if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+      with:
+        branch: master
+        token: ${{ steps.create-deploy-token.outputs.token }}
+        git-config-name: GitHub Action
+          git-config-email: action@github.com
+          commit-message: 'update epg'
+          clean: false
+          force: false
