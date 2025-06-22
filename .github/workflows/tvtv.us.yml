@@ -30,9 +30,11 @@ jobs:
           
     - name: Commit changes
       run: |
-          git config --global user.name "Your Name"
-          git config --global user.email ""
-          git add -f ./guide/tvtv.us.xml
-          git add -f ./guide/tvtv.us.xml.gz
-          git commit -m "update epg"
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          (git push) || true
+          git checkout -B master
+          git add -f guide/tvtv.us.xml
+          git add -f guide/tvtv.us.xml.gz
+          git commit --allow-empty
           git push -f origin master
