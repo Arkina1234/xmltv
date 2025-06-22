@@ -34,4 +34,4 @@ jobs:
           git config --global user.name "Your Name"
           git add -A
           git commit -m "update epg"
-          git push
+          git push -f
