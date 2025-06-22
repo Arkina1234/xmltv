@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: '18'
       - run: npm install
-      - run: npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.channels.xml --days=3
+      - run: npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         with:
