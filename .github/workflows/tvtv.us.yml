@@ -33,9 +33,8 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git status
+          git clean -f
           git add -f guide/tvtv.us.xml
           git add -f guide/tvtv.us.xml.gz
           git commit -m "updated epg"
           git push -f origin master
-      clean: false
-      force: false
