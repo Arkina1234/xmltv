@@ -26,6 +26,7 @@ jobs:
           git init
           git remote add origin https://github.com/Arkina1234/epg.git
           git status
+          git branch -m master
 
     - name: npm grab epg
       run: |
@@ -35,6 +36,6 @@ jobs:
           
     - name: Commit changes
       run: |
-          git add -f -A -u
+          git add -f -A
           git commit -a -m "Update EPG"
           git push -f origin master
