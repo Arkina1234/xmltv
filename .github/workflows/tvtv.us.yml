@@ -31,7 +31,7 @@ jobs:
       with:
         branch: master
         git-config-name: GitHub Action
-          git-config-email: action@github.com
-          commit-message: 'update epg'
-          clean: false
-          force: false
+        git-config-email: action@github.com
+        commit-message: 'update epg'
+        clean: false
+        force: false
