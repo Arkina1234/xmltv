@@ -25,7 +25,7 @@ jobs:
     - name: npm grab epg
       run: |
           git init
-          git remote add https://github.com/Arkina1234/epg.git
+          git remote add -f https://github.com/Arkina1234/epg.git
           git pull origin master
           npm install
           npm run grab -- --channels=./guide/channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
