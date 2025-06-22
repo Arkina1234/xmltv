@@ -20,14 +20,14 @@ jobs:
     - name: npm grab epg
       run: |
           npm install
-          npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 --maxConnections=20 --timeout=90000
+          npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
           
     - name: Commit changes
       run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add -f ./guide/tvtv.us.xml
-          git add -f ./guide/tvtv.us.xml.gz
+          git add ./guide/tvtv.us.xml
+          git add ./guide/tvtv.us.xml.gz
           git commit -m "Update EPG"
-          git push -f origin master
+          git push -u origin master
