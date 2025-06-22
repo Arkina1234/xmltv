@@ -1,10 +1,7 @@
-name: tvtv.us
+name: update epg
 on:
   schedule:
-    - cron: "0 1 * * *"
-  pull_request:
-    branches:
-      - master
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,24 +12,26 @@ jobs:
     - name: checkout repository
       uses: actions/checkout@v4
 
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
     - name: Set up Node
       uses: actions/setup-node@v4
       with:
            node-version: 18
-          
+
     - name: npm grab epg
       run: |
           npm install
-          npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
-          ls ./guide
+          npm run grab -- --channels=./epg/channels/tvtv.us.xml --gzip --output=./epg/tvtv.us.xml --days=3 --maxConnections=20 --timeout=90000
           
-    - uses: JamesIves/github-pages-deploy-action@v4.3.3
-      if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
-      with:
-        branch: gh-pages
-        folder: .gh-pages
-        git-config-name: GitHub Action
-        git-config-email: action@github.com
-        commit-message: 'update epg'
-        clean: false
-        force: false
+    - name: Commit changes
+      run: |
+          git config user.name "🧟 Brainz"
+          git config user.email "<>"
+          git add -f epg/tvtv.us.xml
+          git add -f epg/tvtv.us.xml.gz
+          git commit -m "updated epg"
+          git push -f origin master
