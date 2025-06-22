@@ -31,7 +31,6 @@ jobs:
       run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add -f -u guide/tvtv.us.xml
-          git add -f -u guide/tvtv.us.xml.gz
+          git add -f -A -u
           git commit -a -m "Update EPG"
           git push -f origin master
