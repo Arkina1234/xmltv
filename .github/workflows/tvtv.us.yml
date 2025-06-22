@@ -32,6 +32,7 @@ jobs:
       run: |
           git config --global user.email ""
           git config --global user.name "Your Name"
-          git add -A
+          git add -f ./guide/tvtv.us.xml
+          git add -f ./guide/tvtv.us.xml.gz
           git commit -m "update epg"
           git push -f
