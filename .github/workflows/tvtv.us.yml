@@ -29,13 +29,13 @@ jobs:
 
     - name: npm grab epg
       run: |
+          git pull master
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
           
     - name: Commit changes
       run: |
-          git pull origin master
           git add -f --no-all ./guide/tvtv.us.xml
           git add -f --no-all ./guide/tvtv.us.xml.gz
           git commit -a -m "Update EPG"
