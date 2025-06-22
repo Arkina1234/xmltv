@@ -35,5 +35,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add ./guide/tvtv.us.*
-          git commit -m ""
           git push origin master
