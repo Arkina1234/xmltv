@@ -11,6 +11,9 @@ jobs:
     steps:
     - name: checkout repository
       uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref }}
+        fetch-depth: 0
 
     - name: Set up Node
       uses: actions/setup-node@v4
@@ -27,13 +30,10 @@ jobs:
       run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git tag -d $GITHUB_REF_NAME
-          git tag $GITHUB_REF_NAME
           git add -f ./guide/tvtv.us.*
           git commit -a -m "update epg"
           
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        force: true
-        tags: true
+        branch: ${{ github.head_ref }}
