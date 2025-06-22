@@ -17,20 +17,24 @@ jobs:
       with:
            node-version: 18
 
-    - name: npm grab epg
+    - name: Configuration
       run: |
+          git config --global init.defaultBranch master
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           rm -rf .git/
           git init
           git remote add origin https://github.com/Arkina1234/epg.git
           git status
+
+    - name: npm grab epg
+      run: |
           npm install
           npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
           ls ./guide
           
     - name: Commit changes
       run: |
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
           git add -f -A -u
           git commit -a -m "Update EPG"
           git push -f origin master
