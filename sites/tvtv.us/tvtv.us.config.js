@@ -57,7 +57,7 @@ module.exports = {
           headers: module.exports.request.headers
         })
       }
-  }
+    }
   
     const axios = require('axios')
     for (const req of queue) {
