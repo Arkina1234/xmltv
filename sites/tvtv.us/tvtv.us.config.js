@@ -48,15 +48,6 @@ module.exports = {
       //     headers: module.exports.request.headers
       //   })
       // }
-      if (item.programId && !cachedPrograms[item.programId]) {
-        queue.push({
-          programId: item.programId,
-          url: `https://tvtv.us/api/v1/programs/${item.programId}`,
-          httpAgent: ctx.request.agent,
-          httpsAgent: ctx.request.agent,
-          headers: module.exports.request.headers
-        })
-      }
     }
   
     const axios = require('axios')
