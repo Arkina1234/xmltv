@@ -713,8 +713,8 @@
 <programme start="20250625213000 +0000" stop="20250625220000 +0000" channel="56725"><title lang="en">BBC News America</title></programme>
 <programme start="20250625220000 +0000" stop="20250625223000 +0000" channel="56725"><title lang="en">France 24</title></programme>
 <programme start="20250625223000 +0000" stop="20250625230000 +0000" channel="56725"><title lang="en">NHK Newsline</title></programme>
-<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
 <programme start="20250625230000 +0000" stop="20250626000100 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
+<programme start="20250625230000 +0000" stop="20250625233000 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
 <programme start="20250626003000 +0000" stop="20250626020000 +0000" channel="56725"><title lang="en">POV</title></programme>
 <programme start="20250626020000 +0000" stop="20250626030000 +0000" channel="56725"><title lang="en">PBS News Hour</title></programme>
 <programme start="20250626030000 +0000" stop="20250626033000 +0000" channel="56725"><title lang="en">The Day</title></programme>
@@ -1389,8 +1389,8 @@
 <programme start="20250625190000 +0000" stop="20250625200000 +0000" channel="101260"><title lang="en">Clarks Footwear</title></programme>
 <programme start="20250625200000 +0000" stop="20250625210000 +0000" channel="101260"><title lang="en">American Leather Co.</title></programme>
 <programme start="20250625210000 +0000" stop="20250625230000 +0000" channel="101260"><title lang="en">Gourmet Holiday</title></programme>
-<programme start="20250625230000 +0000" stop="20250626000000 +0000" channel="101260"><title lang="en">Morning Connection</title></programme>
 <programme start="20250625230000 +0000" stop="20250626000100 +0000" channel="101260"><title lang="en">Morning Connection</title></programme>
+<programme start="20250625230000 +0000" stop="20250626000000 +0000" channel="101260"><title lang="en">Morning Connection</title></programme>
 <programme start="20250626010000 +0000" stop="20250626020000 +0000" channel="101260"><title lang="en">Me by Jennie Garth - Fashion</title></programme>
 <programme start="20250626020000 +0000" stop="20250626030000 +0000" channel="101260"><title lang="en">Busy This Week</title></programme>
 <programme start="20250626030000 +0000" stop="20250626040000 +0000" channel="101260"><title lang="en">Barefoot Dreams -- California Style</title></programme>
