@@ -4,6 +4,8 @@
 <channel id="11069"><display-name>QVC</display-name><url>https://tvtv.us</url></channel>
 <channel id="14767"><display-name>Trinity Broadcasting Network</display-name><url>https://tvtv.us</url></channel>
 <channel id="15218"><display-name>Programming Unavailable (PRGNOT)</display-name><url>https://tvtv.us</url></channel>
+<channel id="16220"><display-name>Free Speech TV</display-name><url>https://tvtv.us</url></channel>
+<channel id="16325"><display-name>Classic Arts Showcase</display-name><url>https://tvtv.us</url></channel>
 <channel id="16604"><display-name>Jewelry Television</display-name><url>https://tvtv.us</url></channel>
 <channel id="18633"><display-name>ION Television</display-name><url>https://tvtv.us</url></channel>
 <channel id="30174"><display-name>Enlace</display-name><url>https://tvtv.us</url></channel>
@@ -377,6 +379,93 @@
 <programme start="20250627140000 +0000" stop="20250627180000 +0000" channel="15218"><title lang="en">Programming Unavailable</title></programme>
 <programme start="20250627180000 +0000" stop="20250627220000 +0000" channel="15218"><title lang="en">Programming Unavailable</title></programme>
 <programme start="20250627220000 +0000" stop="20250628000100 +0000" channel="15218"><title lang="en">Programming Unavailable</title></programme>
+<programme start="20250625000000 +0000" stop="20250625010000 +0000" channel="16220"><title lang="en">Break Through News</title></programme>
+<programme start="20250625010000 +0000" stop="20250625040000 +0000" channel="16220"><title lang="en">The Thom Hartmann Program</title></programme>
+<programme start="20250625040000 +0000" stop="20250625050000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250625050000 +0000" stop="20250625060000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250625060000 +0000" stop="20250625070000 +0000" channel="16220"><title lang="en">France 24</title></programme>
+<programme start="20250625070000 +0000" stop="20250625073000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Africa Direct</title></programme>
+<programme start="20250625073000 +0000" stop="20250625080000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Africa Direct</title></programme>
+<programme start="20250625080000 +0000" stop="20250625083000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: All Hail The Planet</title></programme>
+<programme start="20250625083000 +0000" stop="20250625090000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: All Hail The Planet</title></programme>
+<programme start="20250625090000 +0000" stop="20250625093000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: All Hail The Planet</title></programme>
+<programme start="20250625093000 +0000" stop="20250625100000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: All Hail The Planet</title></programme>
+<programme start="20250625100000 +0000" stop="20250625103000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Africa Direct</title></programme>
+<programme start="20250625103000 +0000" stop="20250625110000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Africa Direct</title></programme>
+<programme start="20250625110000 +0000" stop="20250625120000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250625120000 +0000" stop="20250625130000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250625130000 +0000" stop="20250625160000 +0000" channel="16220"><title lang="en">The Stephanie Miller Show</title></programme>
+<programme start="20250625160000 +0000" stop="20250625190000 +0000" channel="16220"><title lang="en">The Thom Hartmann Program</title></programme>
+<programme start="20250625190000 +0000" stop="20250625200000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250625200000 +0000" stop="20250625203000 +0000" channel="16220"><title lang="en">Means Midday News</title></programme>
+<programme start="20250625203000 +0000" stop="20250625213000 +0000" channel="16220"><title lang="en">Gay USA</title></programme>
+<programme start="20250625213000 +0000" stop="20250625220000 +0000" channel="16220"><title lang="en">Al Jazeera English Newscast</title></programme>
+<programme start="20250625220000 +0000" stop="20250625230000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250625230000 +0000" stop="20250626000000 +0000" channel="16220"><title lang="en">Al Jazeera English Newscast</title></programme>
+<programme start="20250626000000 +0000" stop="20250626010000 +0000" channel="16220"><title lang="en">Rising Up With Sonali</title></programme>
+<programme start="20250626010000 +0000" stop="20250626040000 +0000" channel="16220"><title lang="en">The Thom Hartmann Program</title></programme>
+<programme start="20250626040000 +0000" stop="20250626050000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250626050000 +0000" stop="20250626060000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250626060000 +0000" stop="20250626070000 +0000" channel="16220"><title lang="en">France 24</title></programme>
+<programme start="20250626070000 +0000" stop="20250626073000 +0000" channel="16220"><title lang="en">Bioneers 2024: Revolution From the Heart of Nature</title></programme>
+<programme start="20250626073000 +0000" stop="20250626080000 +0000" channel="16220"><title lang="en">Bioneers 2024: Revolution From the Heart of Nature</title></programme>
+<programme start="20250626080000 +0000" stop="20250626090000 +0000" channel="16220"><title lang="en">Zero Hour With RJ Eskow</title></programme>
+<programme start="20250626090000 +0000" stop="20250626100000 +0000" channel="16220"><title lang="en">Black History, Resistance &amp; the Power of Art: Jasiri X</title></programme>
+<programme start="20250626100000 +0000" stop="20250626103000 +0000" channel="16220"><title lang="en">Bioneers 2024: Revolution From the Heart of Nature</title></programme>
+<programme start="20250626103000 +0000" stop="20250626110000 +0000" channel="16220"><title lang="en">Bioneers 2024: Revolution From the Heart of Nature</title></programme>
+<programme start="20250626110000 +0000" stop="20250626120000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250626120000 +0000" stop="20250626130000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250626130000 +0000" stop="20250626160000 +0000" channel="16220"><title lang="en">The Stephanie Miller Show</title></programme>
+<programme start="20250626160000 +0000" stop="20250626190000 +0000" channel="16220"><title lang="en">The Thom Hartmann Program</title></programme>
+<programme start="20250626190000 +0000" stop="20250626200000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250626200000 +0000" stop="20250626203000 +0000" channel="16220"><title lang="en">Means Midday News</title></programme>
+<programme start="20250626203000 +0000" stop="20250626213000 +0000" channel="16220"><title lang="en">Rising Up With Sonali</title></programme>
+<programme start="20250626213000 +0000" stop="20250626220000 +0000" channel="16220"><title lang="en">Al Jazeera English Newscast</title></programme>
+<programme start="20250626220000 +0000" stop="20250626230000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250626230000 +0000" stop="20250627000000 +0000" channel="16220"><title lang="en">Al Jazeera English Newscast</title></programme>
+<programme start="20250627000000 +0000" stop="20250627010000 +0000" channel="16220"><title lang="en">Gay USA</title></programme>
+<programme start="20250627010000 +0000" stop="20250627040000 +0000" channel="16220"><title lang="en">The Thom Hartmann Program</title></programme>
+<programme start="20250627040000 +0000" stop="20250627050000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250627050000 +0000" stop="20250627060000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250627060000 +0000" stop="20250627070000 +0000" channel="16220"><title lang="en">France 24</title></programme>
+<programme start="20250627070000 +0000" stop="20250627073000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Earthrise</title></programme>
+<programme start="20250627073000 +0000" stop="20250627080000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Earthrise</title></programme>
+<programme start="20250627080000 +0000" stop="20250627083000 +0000" channel="16220"><title lang="en">Bioneers 2024: Revolution From the Heart of Nature</title></programme>
+<programme start="20250627083000 +0000" stop="20250627090000 +0000" channel="16220"><title lang="en">Bioneers 2024: Revolution From the Heart of Nature</title></programme>
+<programme start="20250627090000 +0000" stop="20250627100000 +0000" channel="16220"><title lang="en">Black History, Resistance &amp; the Power of Art: Jasiri X</title></programme>
+<programme start="20250627100000 +0000" stop="20250627103000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Earthrise</title></programme>
+<programme start="20250627103000 +0000" stop="20250627110000 +0000" channel="16220"><title lang="en">Al Jazeera Presents: Earthrise</title></programme>
+<programme start="20250627110000 +0000" stop="20250627120000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250627120000 +0000" stop="20250627130000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250627130000 +0000" stop="20250627160000 +0000" channel="16220"><title lang="en">The Stephanie Miller Show</title></programme>
+<programme start="20250627160000 +0000" stop="20250627190000 +0000" channel="16220"><title lang="en">The Thom Hartmann Program</title></programme>
+<programme start="20250627190000 +0000" stop="20250627200000 +0000" channel="16220"><title lang="en">The Rick Smith Show</title></programme>
+<programme start="20250627200000 +0000" stop="20250627203000 +0000" channel="16220"><title lang="en">Means Midday News</title></programme>
+<programme start="20250627203000 +0000" stop="20250627213000 +0000" channel="16220"><title lang="en">Break Through News</title></programme>
+<programme start="20250627213000 +0000" stop="20250627220000 +0000" channel="16220"><title lang="en">Al Jazeera English Newscast</title></programme>
+<programme start="20250627220000 +0000" stop="20250627230000 +0000" channel="16220"><title lang="en">Democracy Now!</title></programme>
+<programme start="20250627230000 +0000" stop="20250628000000 +0000" channel="16220"><title lang="en">Al Jazeera English Newscast</title></programme>
+<programme start="20250624220000 +0000" stop="20250625000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625020000 +0000" stop="20250625060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625060000 +0000" stop="20250625100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625100000 +0000" stop="20250625140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625140000 +0000" stop="20250625180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625180000 +0000" stop="20250625220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625220000 +0000" stop="20250626000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250625220000 +0000" stop="20250626000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626020000 +0000" stop="20250626060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626060000 +0000" stop="20250626100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626100000 +0000" stop="20250626140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626140000 +0000" stop="20250626180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626180000 +0000" stop="20250626220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626220000 +0000" stop="20250627000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250626220000 +0000" stop="20250627000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627020000 +0000" stop="20250627060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627060000 +0000" stop="20250627100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627100000 +0000" stop="20250627140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627140000 +0000" stop="20250627180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627180000 +0000" stop="20250627220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627220000 +0000" stop="20250628000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250625000000 +0000" stop="20250625020000 +0000" channel="16604"><title lang="en">Color Crush Jewelry</title></programme>
 <programme start="20250625020000 +0000" stop="20250625040000 +0000" channel="16604"><title lang="en">Prazana Lab-Grown Diamonds</title></programme>
 <programme start="20250625040000 +0000" stop="20250625060000 +0000" channel="16604"><title lang="en">Moda al Massimo Jewelry</title></programme>
@@ -1767,22 +1856,7 @@
 <programme start="20250627223000 +0000" stop="20250627230000 +0000" channel="92091"><title lang="en">Home Improvement</title></programme>
 <programme start="20250627230000 +0000" stop="20250627233000 +0000" channel="92091"><title lang="en">Last Man Standing</title></programme>
 <programme start="20250627233000 +0000" stop="20250628000000 +0000" channel="92091"><title lang="en">Last Man Standing</title></programme>
-<programme start="20250625000000 +0000" stop="20250625010000 +0000" channel="101260"><title lang="en">Dr. Kellyann -- Women&apos;s Wellness</title></programme>
-<programme start="20250625010000 +0000" stop="20250625040000 +0000" channel="101260"><title lang="en">AM Style With Leah Williams</title></programme>
-<programme start="20250625040000 +0000" stop="20250625050000 +0000" channel="101260"><title lang="en">Everyday Solutions</title></programme>
-<programme start="20250625050000 +0000" stop="20250625070000 +0000" channel="101260"><title lang="en">Q the Real Talk With Jayne and Pat</title></programme>
-<programme start="20250625070000 +0000" stop="20250625080000 +0000" channel="101260"><title lang="en">The Bag Edit</title></programme>
-<programme start="20250625080000 +0000" stop="20250625120000 +0000" channel="101260"><title lang="en">In the Kitchen with David: Holiday Food Edition</title></programme>
-<programme start="20250625120000 +0000" stop="20250625140000 +0000" channel="101260"><title lang="en">Summer is On</title></programme>
-<programme start="20250625140000 +0000" stop="20250625150000 +0000" channel="101260"><title lang="en">Over 50 &amp; Fabulous</title></programme>
-<programme start="20250625150000 +0000" stop="20250625170000 +0000" channel="101260"><title lang="en">Susan Graver Style</title></programme>
-<programme start="20250625170000 +0000" stop="20250625180000 +0000" channel="101260"><title lang="en">Friday Night Beauty</title></programme>
-<programme start="20250625180000 +0000" stop="20250625190000 +0000" channel="101260"><title lang="en">ELEMIS Skin Care</title></programme>
-<programme start="20250625190000 +0000" stop="20250625200000 +0000" channel="101260"><title lang="en">Clarks Footwear</title></programme>
-<programme start="20250625200000 +0000" stop="20250625210000 +0000" channel="101260"><title lang="en">American Leather Co.</title></programme>
-<programme start="20250625210000 +0000" stop="20250625230000 +0000" channel="101260"><title lang="en">Gourmet Holiday</title></programme>
 <programme start="20250625230000 +0000" stop="20250626000000 +0000" channel="101260"><title lang="en">Morning Connection</title></programme>
-<programme start="20250625230000 +0000" stop="20250626000100 +0000" channel="101260"><title lang="en">Morning Connection</title></programme>
 <programme start="20250626010000 +0000" stop="20250626020000 +0000" channel="101260"><title lang="en">Me by Jennie Garth - Fashion</title></programme>
 <programme start="20250626020000 +0000" stop="20250626030000 +0000" channel="101260"><title lang="en">Busy This Week</title></programme>
 <programme start="20250626030000 +0000" stop="20250626040000 +0000" channel="101260"><title lang="en">Barefoot Dreams -- California Style</title></programme>
