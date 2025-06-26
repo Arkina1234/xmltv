@@ -439,8 +439,8 @@
 <programme start="20250627100000 +0000" stop="20250627140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250627140000 +0000" stop="20250627180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250627180000 +0000" stop="20250627220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250627220000 +0000" stop="20250628000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250627220000 +0000" stop="20250628000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250627220000 +0000" stop="20250628000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250628020000 +0000" stop="20250628060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250628060000 +0000" stop="20250628100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250628100000 +0000" stop="20250628140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -579,8 +579,8 @@
 <programme start="20250626100000 +0000" stop="20250626140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250626140000 +0000" stop="20250626180000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250626180000 +0000" stop="20250626220000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
-<programme start="20250626220000 +0000" stop="20250627000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250626220000 +0000" stop="20250627000100 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
+<programme start="20250626220000 +0000" stop="20250627000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250627020000 +0000" stop="20250627060000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250627060000 +0000" stop="20250627100000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250627100000 +0000" stop="20250627140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
@@ -1147,8 +1147,8 @@
 <programme start="20250626213000 +0000" stop="20250626220000 +0000" channel="56725"><title lang="en">BBC News America</title></programme>
 <programme start="20250626220000 +0000" stop="20250626223000 +0000" channel="56725"><title lang="en">France 24</title></programme>
 <programme start="20250626223000 +0000" stop="20250626230000 +0000" channel="56725"><title lang="en">NHK Newsline</title></programme>
-<programme start="20250626230000 +0000" stop="20250626233000 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
 <programme start="20250626230000 +0000" stop="20250627000100 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
+<programme start="20250626230000 +0000" stop="20250626233000 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
 <programme start="20250627003000 +0000" stop="20250627020000 +0000" channel="56725"><title lang="en">Independent Lens</title></programme>
 <programme start="20250627020000 +0000" stop="20250627030000 +0000" channel="56725"><title lang="en">PBS News Hour</title></programme>
 <programme start="20250627030000 +0000" stop="20250627033000 +0000" channel="56725"><title lang="en">The Day</title></programme>
@@ -1334,8 +1334,8 @@
 <programme start="20250626180000 +0000" stop="20250626190000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250626190000 +0000" stop="20250626200000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250626200000 +0000" stop="20250626223000 +0000" channel="73067"><title lang="en">Executive Decision</title></programme>
-<programme start="20250626223000 +0000" stop="20250626230000 +0000" channel="73067"><title lang="en">Enemies Closer</title></programme>
 <programme start="20250626223000 +0000" stop="20250627000100 +0000" channel="73067"><title lang="en">Enemies Closer</title></programme>
+<programme start="20250626223000 +0000" stop="20250626230000 +0000" channel="73067"><title lang="en">Enemies Closer</title></programme>
 <programme start="20250627003000 +0000" stop="20250627033000 +0000" channel="73067"><title lang="en">The Long Kiss Goodnight</title></programme>
 <programme start="20250627033000 +0000" stop="20250627053000 +0000" channel="73067"><title lang="en">John Q</title></programme>
 <programme start="20250627053000 +0000" stop="20250627073000 +0000" channel="73067"><title lang="en">River Runs Red</title></programme>
