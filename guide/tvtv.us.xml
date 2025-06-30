@@ -411,8 +411,8 @@
 <programme start="20250701100000 +0000" stop="20250701140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250701140000 +0000" stop="20250701180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250701180000 +0000" stop="20250701220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250701220000 +0000" stop="20250702000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250701220000 +0000" stop="20250702000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250701220000 +0000" stop="20250702000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250702020000 +0000" stop="20250702060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250702060000 +0000" stop="20250702100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250702100000 +0000" stop="20250702140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -520,8 +520,8 @@
 <programme start="20250630100000 +0000" stop="20250630140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250630140000 +0000" stop="20250630180000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250630180000 +0000" stop="20250630220000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
-<programme start="20250630220000 +0000" stop="20250701000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250630220000 +0000" stop="20250701000100 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
+<programme start="20250630220000 +0000" stop="20250701000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250701020000 +0000" stop="20250701060000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250701060000 +0000" stop="20250701100000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250701100000 +0000" stop="20250701140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
@@ -1268,8 +1268,8 @@
 <programme start="20250630180000 +0000" stop="20250630190000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250630190000 +0000" stop="20250630200000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250630200000 +0000" stop="20250630223000 +0000" channel="73067"><title lang="en">Not Easily Broken</title></programme>
-<programme start="20250630223000 +0000" stop="20250630230000 +0000" channel="73067"><title lang="en">Our Family Wedding</title></programme>
 <programme start="20250630223000 +0000" stop="20250701000100 +0000" channel="73067"><title lang="en">Our Family Wedding</title></programme>
+<programme start="20250630223000 +0000" stop="20250630230000 +0000" channel="73067"><title lang="en">Our Family Wedding</title></programme>
 <programme start="20250701003000 +0000" stop="20250701023000 +0000" channel="73067"><title lang="en">Norbit</title></programme>
 <programme start="20250701023000 +0000" stop="20250701043000 +0000" channel="73067"><title lang="en">Like a Boss</title></programme>
 <programme start="20250701043000 +0000" stop="20250701063000 +0000" channel="73067"><title lang="en">The Comeback</title></programme>
