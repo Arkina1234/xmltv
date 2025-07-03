@@ -437,8 +437,8 @@
 <programme start="20250704100000 +0000" stop="20250704140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250704140000 +0000" stop="20250704180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250704180000 +0000" stop="20250704220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250704220000 +0000" stop="20250705000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250704220000 +0000" stop="20250705000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250704220000 +0000" stop="20250705000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250705020000 +0000" stop="20250705060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250705060000 +0000" stop="20250705100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250705100000 +0000" stop="20250705140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -543,8 +543,8 @@
 <programme start="20250703100000 +0000" stop="20250703140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250703140000 +0000" stop="20250703180000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250703180000 +0000" stop="20250703220000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
-<programme start="20250703220000 +0000" stop="20250704000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250703220000 +0000" stop="20250704000100 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
+<programme start="20250703220000 +0000" stop="20250704000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250704020000 +0000" stop="20250704060000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250704060000 +0000" stop="20250704100000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250704100000 +0000" stop="20250704140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
@@ -717,7 +717,7 @@
 <programme start="20250705113000 +0000" stop="20250705120000 +0000" channel="34169"><title lang="en">Paid Programming</title></programme>
 <programme start="20250705120000 +0000" stop="20250705123000 +0000" channel="34169"><title lang="en">Pocket Hose Copper Head - see why 50 million sold</title></programme>
 <programme start="20250705123000 +0000" stop="20250705130000 +0000" channel="34169"><title lang="en">Paid Programming</title></programme>
-<programme start="20250705130000 +0000" stop="20250705133000 +0000" channel="34169"><title lang="en">Paid Programming</title></programme>
+<programme start="20250705130000 +0000" stop="20250705133000 +0000" channel="34169"><title lang="en">Wounded Warrior Project: No Warrior is Left Behind</title></programme>
 <programme start="20250705133000 +0000" stop="20250705140000 +0000" channel="34169"><title lang="en">The Fight Against Joint Pain</title></programme>
 <programme start="20250705140000 +0000" stop="20250705143000 +0000" channel="34169"><title lang="en">The Aging Brain</title></programme>
 <programme start="20250705143000 +0000" stop="20250705150000 +0000" channel="34169"><title lang="en">Forgotten Jews</title></programme>
@@ -1296,8 +1296,8 @@
 <programme start="20250703180000 +0000" stop="20250703190000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250703190000 +0000" stop="20250703200000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250703200000 +0000" stop="20250703230000 +0000" channel="73067"><title lang="en">U.S. Marshals</title></programme>
-<programme start="20250703230000 +0000" stop="20250704010000 +0000" channel="73067"><title lang="en">Molly&apos;s Game</title></programme>
 <programme start="20250703230000 +0000" stop="20250704000100 +0000" channel="73067"><title lang="en">Molly&apos;s Game</title></programme>
+<programme start="20250703230000 +0000" stop="20250704010000 +0000" channel="73067"><title lang="en">Molly&apos;s Game</title></programme>
 <programme start="20250704020000 +0000" stop="20250704043000 +0000" channel="73067"><title lang="en">Broken City</title></programme>
 <programme start="20250704043000 +0000" stop="20250704063000 +0000" channel="73067"><title lang="en">Set Up</title></programme>
 <programme start="20250704063000 +0000" stop="20250704073000 +0000" channel="73067"><title lang="en">Someone They Knew with Tamron Hall</title></programme>
@@ -1806,8 +1806,8 @@
 <programme start="20250703170000 +0000" stop="20250703180000 +0000" channel="101260"><title lang="en">Over 50 &amp; Fabulous</title></programme>
 <programme start="20250703180000 +0000" stop="20250703200000 +0000" channel="101260"><title lang="en">PM Style with Amy Stran Clearance</title></programme>
 <programme start="20250703200000 +0000" stop="20250703220000 +0000" channel="101260"><title lang="en">Morning Connection</title></programme>
-<programme start="20250703220000 +0000" stop="20250703230000 +0000" channel="101260"><title lang="en">Gourmet Holiday</title></programme>
 <programme start="20250703220000 +0000" stop="20250704000100 +0000" channel="101260"><title lang="en">Gourmet Holiday</title></programme>
+<programme start="20250703220000 +0000" stop="20250703230000 +0000" channel="101260"><title lang="en">Gourmet Holiday</title></programme>
 <programme start="20250704010000 +0000" stop="20250704020000 +0000" channel="101260"><title lang="en">ELEMIS Skin Care</title></programme>
 <programme start="20250704020000 +0000" stop="20250704030000 +0000" channel="101260"><title lang="en">Facets of Diamonique Jewelry</title></programme>
 <programme start="20250704030000 +0000" stop="20250704040000 +0000" channel="101260"><title lang="en">Philosophy -- Beauty</title></programme>
