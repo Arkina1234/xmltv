@@ -187,8 +187,8 @@
 <programme start="20250705180000 +0000" stop="20250705210000 +0000" channel="11069"><title lang="en">Denim &amp; Co.</title></programme>
 <programme start="20250705210000 +0000" stop="20250705220000 +0000" channel="11069"><title lang="en">Philosophy -- Beauty</title></programme>
 <programme start="20250705220000 +0000" stop="20250705230000 +0000" channel="11069"><title lang="en">Northern Nights Mattress</title></programme>
-<programme start="20250705230000 +0000" stop="20250706000100 +0000" channel="11069"><title lang="en">Belle by Kim Gravel -- Fashion</title></programme>
 <programme start="20250705230000 +0000" stop="20250706010000 +0000" channel="11069"><title lang="en">Belle by Kim Gravel -- Fashion</title></programme>
+<programme start="20250705230000 +0000" stop="20250706000100 +0000" channel="11069"><title lang="en">Belle by Kim Gravel -- Fashion</title></programme>
 <programme start="20250706020000 +0000" stop="20250706040000 +0000" channel="11069"><title lang="en">Denim &amp; Co.</title></programme>
 <programme start="20250706040000 +0000" stop="20250706050000 +0000" channel="11069"><title lang="en">Rastelli&apos;s Family &amp; Friends</title></programme>
 <programme start="20250706050000 +0000" stop="20250706070000 +0000" channel="11069"><title lang="en">Dooney &amp; Bourke Clearance</title></programme>
@@ -437,8 +437,8 @@
 <programme start="20250706100000 +0000" stop="20250706140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250706140000 +0000" stop="20250706180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250706180000 +0000" stop="20250706220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250706220000 +0000" stop="20250707000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250706220000 +0000" stop="20250707000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250706220000 +0000" stop="20250707000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250707020000 +0000" stop="20250707060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250707060000 +0000" stop="20250707100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250707100000 +0000" stop="20250707140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -572,8 +572,8 @@
 <programme start="20250705100000 +0000" stop="20250705140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250705140000 +0000" stop="20250705180000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250705180000 +0000" stop="20250705220000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
-<programme start="20250705220000 +0000" stop="20250706000100 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250705220000 +0000" stop="20250706000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
+<programme start="20250705220000 +0000" stop="20250706000100 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250706020000 +0000" stop="20250706070000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250706070000 +0000" stop="20250706100000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250706100000 +0000" stop="20250706140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
@@ -1547,6 +1547,23 @@
 <programme start="20250705180000 +0000" stop="20250705193000 +0000" channel="89922"><title lang="en">Gunfighters of Abilene</title></programme>
 <programme start="20250705193000 +0000" stop="20250705220000 +0000" channel="89922"><title lang="en">Jeremiah Johnson</title></programme>
 <programme start="20250705220000 +0000" stop="20250706000000 +0000" channel="89922"><title lang="en">Buffalo Soldiers</title></programme>
+<programme start="20250706000000 +0000" stop="20250706023000 +0000" channel="89922"><title lang="en">The Jack Bull</title></programme>
+<programme start="20250706023000 +0000" stop="20250706043000 +0000" channel="89922"><title lang="en">Gold of the Seven Saints</title></programme>
+<programme start="20250706043000 +0000" stop="20250706070000 +0000" channel="89922"><title lang="en">The Night of the Grizzly</title></programme>
+<programme start="20250706070000 +0000" stop="20250706073000 +0000" channel="89922"><title lang="en">Transform your home today, fast &amp; easy!</title></programme>
+<programme start="20250706073000 +0000" stop="20250706080000 +0000" channel="89922"><title lang="en">Paid Programming</title></programme>
+<programme start="20250706080000 +0000" stop="20250706083000 +0000" channel="89922"><title lang="en">The Wellness Doctors + Urgent Care Kit + Prescriptions</title></programme>
+<programme start="20250706083000 +0000" stop="20250706090000 +0000" channel="89922"><title lang="en">Who Has Access to Your Personal Data?</title></programme>
+<programme start="20250706090000 +0000" stop="20250706093000 +0000" channel="89922"><title lang="en">Interested in Gold? Learn more!</title></programme>
+<programme start="20250706093000 +0000" stop="20250706100000 +0000" channel="89922"><title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title></programme>
+<programme start="20250706100000 +0000" stop="20250706103000 +0000" channel="89922"><title lang="en">Death Valley Days</title></programme>
+<programme start="20250706103000 +0000" stop="20250706120000 +0000" channel="89922"><title lang="en">Santa Fe Stampede</title></programme>
+<programme start="20250706120000 +0000" stop="20250706133000 +0000" channel="89922"><title lang="en">Red River Range</title></programme>
+<programme start="20250706133000 +0000" stop="20250706150000 +0000" channel="89922"><title lang="en">Three Texas Steers</title></programme>
+<programme start="20250706150000 +0000" stop="20250706163000 +0000" channel="89922"><title lang="en">Frontier Horizon</title></programme>
+<programme start="20250706163000 +0000" stop="20250706193000 +0000" channel="89922"><title lang="en">The Undefeated</title></programme>
+<programme start="20250706193000 +0000" stop="20250706213000 +0000" channel="89922"><title lang="en">The Train Robbers</title></programme>
+<programme start="20250706213000 +0000" stop="20250707000000 +0000" channel="89922"><title lang="en">The Comancheros</title></programme>
 <programme start="20250707000000 +0000" stop="20250707020000 +0000" channel="89922"><title lang="en">Hondo</title></programme>
 <programme start="20250707020000 +0000" stop="20250707040000 +0000" channel="89922"><title lang="en">The Spoilers</title></programme>
 <programme start="20250707040000 +0000" stop="20250707060000 +0000" channel="89922"><title lang="en">Dakota</title></programme>
@@ -1781,8 +1798,8 @@
 <programme start="20250705190000 +0000" stop="20250705200000 +0000" channel="101260"><title lang="en">Lug - Travel &amp; Handbags Clearance</title></programme>
 <programme start="20250705200000 +0000" stop="20250705210000 +0000" channel="101260"><title lang="en">Friday Night Beauty</title></programme>
 <programme start="20250705210000 +0000" stop="20250705230000 +0000" channel="101260"><title lang="en">Susan Graver Style</title></programme>
-<programme start="20250705230000 +0000" stop="20250706000100 +0000" channel="101260"><title lang="en">Q the Real Talk With Jayne and Pat</title></programme>
 <programme start="20250705230000 +0000" stop="20250706000000 +0000" channel="101260"><title lang="en">Q the Real Talk With Jayne and Pat</title></programme>
+<programme start="20250705230000 +0000" stop="20250706000100 +0000" channel="101260"><title lang="en">Q the Real Talk With Jayne and Pat</title></programme>
 <programme start="20250706010000 +0000" stop="20250706020000 +0000" channel="101260"><title lang="en">Linens to Love: Sale &amp; Clearance</title></programme>
 <programme start="20250706020000 +0000" stop="20250706040000 +0000" channel="101260"><title lang="en">July 4th Sale</title></programme>
 <programme start="20250706040000 +0000" stop="20250706080000 +0000" channel="101260"><title lang="en">Saturday Morning Q -- Holiday Edition</title></programme>
