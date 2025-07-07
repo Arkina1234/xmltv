@@ -1,4 +1,4 @@
-name: tvtv.us
+name: uk
 on:
   schedule:
     - cron: "59 24 * * *"
