@@ -1,0 +1,28 @@
+name: tvtv.us
+on:
+  schedule:
+    - cron: "59 24 * * *"
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+jobs:
+  load:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2
+        if: ${{ !env.ACT }}
+        with:
+          node-version: '18'
+      - run: npm install
+      - run: npm run grab -- --channels=./channels/uk.channels.xml --gzip --output=./guide/epg-uk.xml --days=7
+      - uses: JamesIves/github-pages-deploy-action@v4
+        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+        with:
+          folder: .
+          git-config-name: github-actions[bot]
+          git-config-email: github-actions[bot]@users.noreply.github.com
+          commit-message: 'Update EPG'
+          clean: false
+          force: false
