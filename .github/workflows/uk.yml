@@ -1,7 +1,7 @@
-name: uk
+name: grabbing EPG UK
 on:
   schedule:
-    - cron: "59 24 * * *"
+    - cron: ""0 */24 * * *"
   push:
     branches:
       - master
