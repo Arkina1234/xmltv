@@ -448,8 +448,8 @@
 <programme start="20250709100000 +0000" stop="20250709140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250709140000 +0000" stop="20250709180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250709180000 +0000" stop="20250709220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250709220000 +0000" stop="20250710000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250709220000 +0000" stop="20250710000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250709220000 +0000" stop="20250710000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250710020000 +0000" stop="20250710060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250710060000 +0000" stop="20250710100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250710100000 +0000" stop="20250710140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -1185,8 +1185,8 @@
 <programme start="20250709213000 +0000" stop="20250709220000 +0000" channel="56725"><title lang="en">BBC News America</title></programme>
 <programme start="20250709220000 +0000" stop="20250709223000 +0000" channel="56725"><title lang="en">France 24</title></programme>
 <programme start="20250709223000 +0000" stop="20250709230000 +0000" channel="56725"><title lang="en">NHK Newsline</title></programme>
-<programme start="20250709230000 +0000" stop="20250710000100 +0000" channel="56725"><title lang="en">POV</title></programme>
 <programme start="20250709230000 +0000" stop="20250709233000 +0000" channel="56725"><title lang="en">POV</title></programme>
+<programme start="20250709230000 +0000" stop="20250710000100 +0000" channel="56725"><title lang="en">POV</title></programme>
 <programme start="20250710003000 +0000" stop="20250710020000 +0000" channel="56725"><title lang="en">POV</title></programme>
 <programme start="20250710020000 +0000" stop="20250710030000 +0000" channel="56725"><title lang="en">PBS News Hour</title></programme>
 <programme start="20250710030000 +0000" stop="20250710033000 +0000" channel="56725"><title lang="en">The Day</title></programme>
@@ -1361,8 +1361,8 @@
 <programme start="20250709180000 +0000" stop="20250709190000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250709190000 +0000" stop="20250709200000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250709200000 +0000" stop="20250709220000 +0000" channel="73067"><title lang="en">Passenger 57</title></programme>
-<programme start="20250709220000 +0000" stop="20250710000100 +0000" channel="73067"><title lang="en">U.S. Marshals</title></programme>
 <programme start="20250709220000 +0000" stop="20250709230000 +0000" channel="73067"><title lang="en">U.S. Marshals</title></programme>
+<programme start="20250709220000 +0000" stop="20250710000100 +0000" channel="73067"><title lang="en">U.S. Marshals</title></programme>
 <programme start="20250710010000 +0000" stop="20250710030000 +0000" channel="73067"><title lang="en">Above the Law</title></programme>
 <programme start="20250710030000 +0000" stop="20250710050000 +0000" channel="73067"><title lang="en">Hard to Kill</title></programme>
 <programme start="20250710050000 +0000" stop="20250710070000 +0000" channel="73067"><title lang="en">RoboCop</title></programme>
