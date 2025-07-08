@@ -593,12 +593,12 @@
     <desc lang="en">Oggy Oggy's yawns are highly contagious!</desc>
     <icon src="https://img.freeviewplay.tv/pcbe3c43e931f222ba60ea35e8b53dda5?w=800"/>
   </programme>
-  <programme channel="Channel5.uk" start="20250710060500 +0100" stop="20250710061500 +0100">
+  <programme channel="Channel5.uk" start="20250710060500 +0100" stop="20250710061000 +0100">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Peppa and friends are at Penny Polar Bear's house for a movie night. But before they can watch it, the children need to decide where to sit, and which popcorn to eat.</desc>
     <icon src="https://img.freeviewplay.tv/p62901f13f3c13dd95ab09c7446155a01?w=800"/>
   </programme>
-  <programme channel="Channel5.uk" start="20250710061500 +0100" stop="20250710062000 +0100">
+  <programme channel="Channel5.uk" start="20250710061000 +0100" stop="20250710062000 +0100">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Granny Sheep and Suzy take Granny Pig and Peppa around Art House Day. After a day full of screen printing and silhouette miniatures, Granny Pig finds the perfect artwork.</desc>
     <icon src="https://img.freeviewplay.tv/p20c12fe3b5a19ca4fcaf5af284718c20?w=800"/>
@@ -744,8 +744,8 @@
   </programme>
   <programme channel="Channel5.uk" start="20250710180000 +0100" stop="20250710190000 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Graeme intervenes with two Löwchens whose hooligan antics are disturbing the peace. And a greedy Groodle causes chaos, stealing food from coffee shop tables and picnics. (Ep3)</desc>
-    <icon src="http://img.freeviewplay.net/e61a6f069b78d15622b3d592cc602b944?w=800"/>
+    <desc lang="en">Model aircraft enthusiast Ray was looking forward to enjoying his retirement with Henry, his latest doggie addition. But this Welsh Terrier loves nothing more than harassing Ray.</desc>
+    <icon src="https://img.freeviewplay.tv/p3af0d04f2f0edc9a1fc7165aa9a8a4dd?w=800"/>
   </programme>
   <programme channel="Channel5.uk" start="20250710190000 +0100" stop="20250710200000 +0100">
     <title lang="en">A Yorkshire Farm</title>
@@ -1200,7 +1200,7 @@
   <programme channel="Channel5.uk" start="20250712210000 +0100" stop="20250712223000 +0100">
     <title lang="en">William &amp; Kate: A Royal Wedding - Minute by Minute</title>
     <desc lang="en">...Wedding Minute by Minute. This documentary takes a forensic look at the wedding of the decade: a future Queen, a global audience of two billion, and pure royal spectacle.</desc>
-    <icon src="https://img.freeviewplay.tv/pae75e74aa543419a2bc75b305c8b4c94?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p35ffd4f52699d096b086961b0df53eb0?w=800"/>
   </programme>
   <programme channel="Channel5.uk" start="20250712223000 +0100" stop="20250713003000 +0100">
     <title lang="en">Most Shocking Moments!</title>
@@ -1576,12 +1576,12 @@
     <desc lang="en">National and international news.</desc>
     <icon src="https://img.freeviewplay.tv/p5cdd9898436cd1e541d833dc6f5482b0?w=800"/>
   </programme>
-  <programme channel="Channel5.uk" start="20250714134500 +0100" stop="20250714142000 +0100">
+  <programme channel="Channel5.uk" start="20250714134500 +0100" stop="20250714141500 +0100">
     <title lang="en">Home and Away</title>
     <desc lang="en">Harper slips out of line. Is Remi committing to too much? Mackenzie wants some real answers.</desc>
     <icon src="https://img.freeviewplay.tv/p65b9dd488f5d242e644412b739cc7faa?w=800"/>
   </programme>
-  <programme channel="Channel5.uk" start="20250714142000 +0100" stop="20250714160000 +0100">
+  <programme channel="Channel5.uk" start="20250714141500 +0100" stop="20250714160000 +0100">
     <title lang="en">Married to a Stranger</title>
     <desc lang="en">5 chilling stories. One unforgettable week of deadly secrets. Bliss moves in with charming, unconventional Nathan - and his two wives. But soon secrets surface and loyalties shift. (2025)</desc>
     <icon src="https://img.freeviewplay.tv/pf3eb8ec06b74b0d2e10cd4f8d1fdc575?w=800"/>
@@ -3537,12 +3537,12 @@
     <icon src="https://img.freeviewplay.tv/pff546c8e14402806f797c673e16b4bcc?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250709020000 +0100" stop="20250709025000 +0100">
-    <title lang="en">Quantico</title>
+    <title lang="en">New: Quantico</title>
     <desc lang="en">At the Farm, Lydia and Owen teach the group about the necessity of lying and cutting off relationships. Perfect timing for Alex, since she is feeling disconnected from Ryan personally and professionally.</desc>
     <icon src="https://img.freeviewplay.tv/p97cd3a531d8bf2cb124ae84bebc2c87a?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250709025000 +0100" stop="20250709033500 +0100">
-    <title lang="en">Quantico</title>
+    <title lang="en">New: Quantico</title>
     <desc lang="en">The recruits are schooled in the art of seduction, which Alex sees as a perfect opportunity to get closer to Owen - but will it threaten her relationship with Ryan?</desc>
     <icon src="https://img.freeviewplay.tv/p8aca6764c4d564aade60922d18e146d3?w=800"/>
   </programme>
@@ -4172,7 +4172,7 @@
     <icon src="https://img.freeviewplay.tv/p48ef53595c1134b6105851fbe6be469c?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250713220000 +0100" stop="20250713230000 +0100">
-    <title lang="en">Surgeons: A Matter of Life...</title>
+    <title lang="en">Surgeons: A Matter of Life or Death</title>
     <desc lang="en">Surgeons face a challenge as Susan's aggressive cancer spreads from her upper jaw to her eye and nose - and removing it will leave a significant hole in her face, which will need complex reconstruction.</desc>
     <icon src="https://img.freeviewplay.tv/pd1f107990fafd9b60fef4ad61eca344e?w=800"/>
   </programme>
@@ -5266,12 +5266,17 @@
     <desc lang="en">Historical series looking at the Roman empire from the bottom up. Professor Mary Beard discovers the crime and slum conditions in the world's first high-rise city.</desc>
     <icon src="https://img.freeviewplay.tv/pac2ff6c92f7771bef8d6f272a223b78d?w=800"/>
   </programme>
-  <programme channel="BBCFour.uk" start="20250710025000 +0100" stop="20250710035000 +0100">
+  <programme channel="BBCFour.uk" start="20250710014000 +0100" stop="20250710024000 +0100">
+    <title lang="en">The Lost World of Tibet</title>
+    <desc lang="en">Dan Cruickshank presents a documentary revealing the story of the Dalai Lama, his secret Himalayan kingdom and his exile, using eyewitness accounts and colour archive footage.</desc>
+    <icon src="https://img.freeviewplay.tv/p4952e27d598b5765c187b83784005768?w=800"/>
+  </programme>
+  <programme channel="BBCFour.uk" start="20250710024000 +0100" stop="20250710034000 +0100">
     <title lang="en">Earth’s Tropical Islands</title>
     <desc lang="en">A journey across Hawaii’s varied islands, discovering how they were made and the incredible wildlife that thrives there, from humpback whales to waterfall-climbing fish.</desc>
     <icon src="https://img.freeviewplay.tv/p5c20ccd46a85513db583a6ce56461cab?w=800"/>
   </programme>
-  <programme channel="BBCFour.uk" start="20250710035000 +0100" stop="20250710053000 +0100">
+  <programme channel="BBCFour.uk" start="20250710034000 +0100" stop="20250710053000 +0100">
     <title lang="en">This is BBC Four</title>
     <desc lang="en">Programmes start at 7.00pm.</desc>
     <icon src="https://img.freeviewplay.tv/p00e2d22899d8336f45458ab80ac4f0c5?w=800"/>
@@ -5532,7 +5537,7 @@
     <icon src="https://img.freeviewplay.tv/p00e2d22899d8336f45458ab80ac4f0c5?w=800"/>
   </programme>
   <programme channel="BBCFour.uk" start="20250714190000 +0100" stop="20250714193000 +0100">
-    <title lang="en">A Summer Journey</title>
+    <title lang="en">A Summer Journey with Angela Rippon</title>
     <desc lang="en">Angela Rippon travels from the River Severn's source at Plynlimon down to Gloucester. En route, she discovers the birthplace of the industrial revolution and goes afloat in a coracle.</desc>
     <icon src="https://img.freeviewplay.tv/pac03e5d72e240dfeda19ef6ef03cbd4c?w=800"/>
   </programme>
@@ -5572,7 +5577,7 @@
     <icon src="https://img.freeviewplay.tv/p984ecfdeaac08bba56939f931980fa84?w=800"/>
   </programme>
   <programme channel="BBCFour.uk" start="20250715004000 +0100" stop="20250715011000 +0100">
-    <title lang="en">A Summer Journey</title>
+    <title lang="en">A Summer Journey with Angela Rippon</title>
     <desc lang="en">Angela Rippon travels from the River Severn's source at Plynlimon down to Gloucester. En route, she discovers the birthplace of the industrial revolution and goes afloat in a coracle.</desc>
     <icon src="https://img.freeviewplay.tv/pac03e5d72e240dfeda19ef6ef03cbd4c?w=800"/>
   </programme>
@@ -5982,14 +5987,14 @@
     <icon src="https://img.freeviewplay.tv/p0e9c0367e31ef1b70d30560d2b0100b2?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250709210000 +0100" stop="20250709213000 +0100">
-    <title lang="en">The Context USA</title>
+    <title lang="en">The Context</title>
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://img.freeviewplay.tv/p3ffa26d079c81cc6c09cb3e1517f2b35?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p0e9c0367e31ef1b70d30560d2b0100b2?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250709213000 +0100" stop="20250709220000 +0100">
-    <title lang="en">The Context USA</title>
+    <title lang="en">The Context</title>
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://img.freeviewplay.tv/p3ffa26d079c81cc6c09cb3e1517f2b35?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p0e9c0367e31ef1b70d30560d2b0100b2?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250709220000 +0100" stop="20250709223000 +0100">
     <title lang="en">BBC News at Ten</title>
@@ -7094,7 +7099,7 @@
   <programme channel="BBCOneLondon.uk" start="20250708093000 +0100" stop="20250708104500 +0100">
     <title lang="en">Morning Live</title>
     <desc lang="en">Gethin Jones and Holly Hamilton talk to Louise Minchin about the rise in fly-tipping. Dr Kas has support for UTIs, and DIY expert Wayne Perrey shows how to fit a water butt to your guttering.</desc>
-    <icon src="https://img.freeviewplay.tv/p5d671817303cac9a9ea3835335ec1530?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pacb807d4196f9b0099dc455da2defcf3?w=800"/>
   </programme>
   <programme channel="BBCOneLondon.uk" start="20250708104500 +0100" stop="20250708111500 +0100">
     <title lang="en">Crimewatch Caught</title>
@@ -7771,40 +7776,30 @@
     <desc lang="en">BBC One joins the BBC's rolling news channel for a night of news.</desc>
     <icon src="https://img.freeviewplay.tv/p9710885df148e76d9893a850856d3421?w=800"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250708022500 +0100" stop="20250708031500 +0100">
+  <programme channel="BBCParliament.uk" start="20250708011500 +0100" stop="20250708031500 +0100">
+    <title lang="en">House of Lords</title>
+    <desc lang="en">Coverage of the second day of debate in the House of Lords on the report stage of the Renters' Rights Bill, on Monday 7 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p75b32d01f389445620df6362d107171a?w=800"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250708031500 +0100" stop="20250708051500 +0100">
+    <title lang="en">House of Lords</title>
+    <desc lang="en">Coverage of the second day of debate in the House of Lords on the report stage of the Renters' Rights Bill, on Monday 7 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p135c2b115451609f7fb31c7d309032d5?w=800"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250708051500 +0100" stop="20250708060000 +0100">
     <title lang="en">House of Lords</title>
     <desc lang="en">The debate in the House of Lords on a ministerial statement on 'giving every child the best start in life', with the education minister, Baroness Smith of Malvern, on Monday 7 July.</desc>
     <icon src="https://img.freeviewplay.tv/paad4eefae5388fc2245ee7f0954ebe04?w=800"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250708031500 +0100" stop="20250708044000 +0100">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Environmental Audit Committee session on environmental sustainability and housing growth, on Monday 30 June.</desc>
-    <icon src="https://img.freeviewplay.tv/pd1356d106d4318d6d339742ce542b802?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708044000 +0100" stop="20250708054500 +0100">
-    <title lang="en">Westminster Hall</title>
-    <desc lang="en">House of Commons proceedings in Westminster Hall including the debate on an e-petition on fossil fuel advertising and sponsorship, from Monday 7 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p4cd2f71ce4bf8c808e9a267ff1020cd3?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708054500 +0100" stop="20250708060000 +0100">
-    <title lang="en">Ten Minute Rule Bill</title>
-    <desc lang="en">The introduction of a Bill, tabled by Labour MP Ian Byrne, on a duty of candour for public officials in giving evidence to public inquiries and investigations, from Tuesday 1 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p893f08f072e39402f0bfb045ab5a172d?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708060000 +0100" stop="20250708071000 +0100">
+  <programme channel="BBCParliament.uk" start="20250708060000 +0100" stop="20250708070000 +0100">
     <title lang="en">House of Commons</title>
     <desc lang="en">Coverage of questions in the House of Commons to Yvette Cooper, the home secretary, and her team of ministers on Monday 7 July.</desc>
     <icon src="https://img.freeviewplay.tv/pf4fc35ddb833fade2b17d02e4b8230b4?w=800"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250708071000 +0100" stop="20250708075000 +0100">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of the statement by the leader of the House of Lords, Baroness Smith of Basildon, on the G7 and Nato summits, on Tuesday 1 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p6c8c7967e06bbd216a1822e27eaedb9f?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708075000 +0100" stop="20250708100000 +0100">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Coverage of the defence select committee session with evidence from the defence secretary, John Healey, from Wednesday 3 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p8673a715c8ce54ff876818d955f75d69?w=800"/>
+  <programme channel="BBCParliament.uk" start="20250708070000 +0100" stop="20250708100000 +0100">
+    <title lang="en">House of Commons</title>
+    <desc lang="en">Highlights of proceedings in the House of Commons from Monday 7 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p8595b7d34060d86d28c6352393e164ab?w=800"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250708100000 +0100" stop="20250708113000 +0100">
     <title lang="en">Select Committees</title>
@@ -7838,8 +7833,8 @@
   </programme>
   <programme channel="BBCParliament.uk" start="20250708233500 +0100" stop="20250709060000 +0100">
     <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of proceedings in the House of Lords including the second day of debate on the committee stage of the Border Security, Asylum and Immigration Bill, on Tuesday 8 July.</desc>
-    <icon src="https://img.freeviewplay.tv/pea6e29da078910521007a5b7557352de?w=800"/>
+    <desc lang="en">The debate in the House of Lords on the UK government's performance against the fiscal rules, on Tuesday 8 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p59c9375f8e9ce3ebe5d35b81ae916274?w=800"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250709060000 +0100" stop="20250709070000 +0100">
     <title lang="en">House of Commons</title>
@@ -8208,7 +8203,7 @@
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250708110000 +0100" stop="20250708213000 +0100">
     <title lang="en">Wimbledon - Day 9, Extra</title>
-    <desc lang="en">Great Britain's Gordon Reid faces the Belgian Joachim Gerard on No.3 Court.</desc>
+    <desc lang="en">Live coverage of Wimbledon 2025 from the All England Club.</desc>
     <icon src="http://img.freeviewplay.net/f7bcb06649391c791a4331bed5b258a22?w=800"/>
   </programme>
   <programme channel="BBCRedButton1.uk" start="20250708213000 +0100" stop="20250708220500 +0100">
@@ -9136,6 +9131,11 @@
     <desc lang="en">John and Janie unravel a mystery involving a murder at a school reunion, a cold case and a shocking discovery from Janie’s past. John risks their friendship with unexpected news.</desc>
     <icon src="https://img.freeviewplay.tv/p79780216609ad4217012b479e66d8c31?w=800"/>
   </programme>
+  <programme channel="BBCTwo.uk" start="20250708031000 +0100" stop="20250708063000 +0100">
+    <title lang="en">This is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two.</desc>
+    <icon src="https://img.freeviewplay.tv/p3eefc63d6825f8304be936c3202c1f37?w=800"/>
+  </programme>
   <programme channel="BBCTwo.uk" start="20250708063000 +0100" stop="20250708070000 +0100">
     <title lang="en">The Moment of Proof</title>
     <desc lang="en">Two young women are shot dead in Birmingham on New Year’s Eve. But it takes an audacious undercover mission for police to infiltrate rival gangs and find the moment of proof.</desc>
@@ -9164,12 +9164,12 @@
   <programme channel="BBCTwo.uk" start="20250708123000 +0100" stop="20250708150000 +0100">
     <title lang="en">Wimbledon</title>
     <desc lang="en">Isa Guha introduces live coverage of the third Grand Slam of the year, with the quarter-finals of the men’s and ladies’ singles due to get under way.</desc>
-    <icon src="https://img.freeviewplay.tv/pd7022e1c4e3402d2670ffc26512fe513?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p25cdfdf9add9e0d11c01147dd43ee0b5?w=800"/>
   </programme>
   <programme channel="BBCTwo.uk" start="20250708150000 +0100" stop="20250708163000 +0100">
     <title lang="en">Wimbledon</title>
     <desc lang="en">Continued live and uninterrupted coverage from the world-famous grass courts of the All England Club, where Wimbledon 2025 is taking place.</desc>
-    <icon src="https://img.freeviewplay.tv/p189a7ce5d843dddd1c89c97717be8294?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pc747028908b1e28cdd1c06397a856407?w=800"/>
   </programme>
   <programme channel="BBCTwo.uk" start="20250708163000 +0100" stop="20250708190000 +0100">
     <title lang="en">Women's Euro 2025</title>
@@ -9834,7 +9834,7 @@
   <programme channel="BBCTwo.uk" start="20250714235000 +0100" stop="20250715005000 +0100">
     <title lang="en">Golf: The Open</title>
     <desc lang="en">James Nesbitt narrates the story of Lowry’s magical triumph at the 2019 Open Championship, featuring patriotic fans, some appalling weather and a home golfer trying to contain his emotions.</desc>
-    <icon src="https://img.freeviewplay.tv/p9fbe876abf9792f65fd3c486ae8ae846?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pea343de22c35a5332cfc1e16bfe0f31a?w=800"/>
   </programme>
   <programme channel="BBCTwo.uk" start="20250715005000 +0100" stop="20250715014500 +0100">
     <title lang="en">Countryfile</title>
@@ -10801,175 +10801,110 @@
     <desc lang="en">The Lemmings activate the air conditioner's AI, causing it to fall in love with the fridge</desc>
     <icon src="https://img.freeviewplay.tv/p54e09a09adf7855a626c534a8050680a?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712100000 +0100" stop="20250712101500 +0100">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">Cheese and Dog are teasing each other about the things they like to do. However, trying out each other's interests causes them to realise what they’ve been missing out on.</desc>
-    <icon src="https://img.freeviewplay.tv/pb63508683548e8c2e7b000bf9934c155?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712101500 +0100" stop="20250712102500 +0100">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">When Mouse brings home an old ice cream truck, the kids start their own smoothie business. However, the town's lovable ice cream man, Uncle Bub, isn't happy about the competition.</desc>
-    <icon src="https://img.freeviewplay.tv/p7bbf029937d9754bf6213941d447763a?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712102500 +0100" stop="20250712104000 +0100">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">When the family visits a farm, Cheese bonds with Delilah the cow over all things dairy. However, bringing her home to live with the family leads to all sorts of problems!</desc>
-    <icon src="https://img.freeviewplay.tv/p69a2672618969229d48692833eab3c29?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712104000 +0100" stop="20250712105000 +0100">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">Chef almost ruins National Hotdog Day when he forgets to book the Hot-Diggity-Doggity Dog.</desc>
-    <icon src="https://img.freeviewplay.tv/pa0aac1dd1681a527aae9c418a5fe84d4?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712105000 +0100" stop="20250712110000 +0100">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">Chef brokers a truce with lice by selecting three kids to 'host' them on their heads.</desc>
-    <icon src="https://img.freeviewplay.tv/p300a4c3a34f447193e6a22be19fcab31?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712110000 +0100" stop="20250712111500 +0100">
-    <title lang="en">Bro's in Control</title>
-    <desc lang="en">Callum sends the bros to the racetrack for a bumpy ride! Adam and Joe’s driving skills are put to the test as they strap into some Power Turn Buggies.</desc>
-    <icon src="https://img.freeviewplay.tv/p4ba7345b81feed2c5dbf12ae30ab4227?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712111500 +0100" stop="20250712113000 +0100">
-    <title lang="en">Go Get Arty</title>
-    <desc lang="en">Dragons, dinos and divas! The Kwapongs craft fire-breathers, Romesh Ranganathan draws a rapping T-rex, and Bristles dives into the bold, brilliant world of Frida Kahlo.</desc>
-    <icon src="https://img.freeviewplay.tv/p35625862ebe527b01a7c825cbdc1577a?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712113000 +0100" stop="20250712120000 +0100">
+  <programme channel="CBBC.uk" start="20250712100000 +0100" stop="20250712103000 +0100">
     <title lang="en">Blue Peter</title>
     <desc lang="en">Joel meets the stars of the new Superman film, Shini attempts martial arts, and find out how to make a garden using just a jam jar.</desc>
     <icon src="https://img.freeviewplay.tv/pc100e7f2b34fc4f2fa79872acb61360f?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712120000 +0100" stop="20250712121000 +0100">
-    <title lang="en">Odd Squad</title>
-    <desc lang="en">The Odd Squad investigate strange events. Debbie from Debbie's Pizzeria has doubled... not once, but twice, creating four Debbies.</desc>
-    <icon src="https://img.freeviewplay.tv/p5a30aee0211d8e7bb41fb568084b8772?w=800"/>
+  <programme channel="CBBC.uk" start="20250712103000 +0100" stop="20250712105500 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Veiled Victories. A-Troupe discover they must compete in regionals and save the studio from financial ruin.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712121000 +0100" stop="20250712122500 +0100">
-    <title lang="en">Odd Squad</title>
-    <desc lang="en">The Odd Squad investigate strange events. Olive and Otto are called in to help when objects and people start disappearing inside an Italian restaurant.</desc>
-    <icon src="https://img.freeviewplay.tv/pa2acfba8934b5409d676f692e0538657?w=800"/>
+  <programme channel="CBBC.uk" start="20250712105500 +0100" stop="20250712112000 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Dreamers in Tune. A-Troupe tries to stay focused on regionals as Heath and Pete learn more about the Brawl. Anthony helps Adele with an audition, while Ariana feels overworked.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712122500 +0100" stop="20250712125000 +0100">
-    <title lang="en">So Awkward Academy</title>
-    <desc lang="en">Can underdog Cranmede take on the mighty reigning champions Gorsforth at the Interschool Country Dance Championships? And can Tam overcome her dance demons in time?</desc>
-    <icon src="https://img.freeviewplay.tv/p1485a447b6247106aa11cbbdb4498d5d?w=800"/>
+  <programme channel="CBBC.uk" start="20250712112000 +0100" stop="20250712114500 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Find Our Way. Jett tries to find her place in A-Troupe but is feeling left out. Ethan reminisces about his time in Paris, while Adele looks to a new opportunity abroad.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712125000 +0100" stop="20250712131500 +0100">
-    <title lang="en">Pickle Storm</title>
-    <desc lang="en">Mr Ludcomb wants to win the Best Headteacher Award, but his plans go wrong when Pickle’s magic accidentally turns the rubbish bins into monsters that end up terrorising the school.</desc>
-    <icon src="https://img.freeviewplay.tv/p081c97c5c537d121a2f9de518bf239f4?w=800"/>
+  <programme channel="CBBC.uk" start="20250712114500 +0100" stop="20250712121000 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">All We Need. As Adele says goodbye to The Next Step, she tries to mend fences with Olive. Things get complicated between Heath and Pascale as Anthony deals with Adele leaving.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712131500 +0100" stop="20250712134500 +0100">
-    <title lang="en">Operation Ouch!</title>
-    <desc lang="en">The doctors investigate noisy tummy rumbles and share the Top 5 Bizzare-est Body Parts You Never Knew You Had! Meanwhile, Dr Chris looks at the reality of fake organs.</desc>
-    <icon src="https://img.freeviewplay.tv/pe8147477dc78b233d22fec7bfd20d4eb?w=800"/>
+  <programme channel="CBBC.uk" start="20250712121000 +0100" stop="20250712123500 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">The Big Storm. An overprotective Heath accuses Grace of sabotage, while Grace and Jonah make a bet to make it on to A-Troupe. Meanwhile, Izzy grapples with keeping Anthony's secret.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712134500 +0100" stop="20250712141000 +0100">
-    <title lang="en">Horrible Science</title>
-    <desc lang="en">Revolting space travel, evolving cows, pet mushrooms, and Einstein watches a car on a trampoline.</desc>
-    <icon src="https://img.freeviewplay.tv/p7998a04b3556c531c826aa1df0c638e1?w=800"/>
+  <programme channel="CBBC.uk" start="20250712123500 +0100" stop="20250712130000 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Do It for Myself. Pete auditions for dance captain, and Olive and Grace search for their place on the team.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712141000 +0100" stop="20250712144000 +0100">
-    <title lang="en">High Hoops</title>
-    <desc lang="en">Aoife and Clanger run head-to-head for school president. When power-mad Clanger’s supporters fall for his free donuts, begging Jessica for help might be Aoife’s only hope.</desc>
-    <icon src="https://img.freeviewplay.tv/p7364ccddbdc87d7ed3e9750f1e246e6e?w=800"/>
+  <programme channel="CBBC.uk" start="20250712130000 +0100" stop="20250712132500 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Game Face. No longer dance captain, Anthony finds following orders difficult. Jett and Ariana try to be friends again, while Heath's history with Daisy complicates things with Pascale.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712144000 +0100" stop="20250712151000 +0100">
-    <title lang="en">Jamie Johnson FC</title>
-    <desc lang="en">As the players embrace their new positions, Christina helps Andrew train to be a striker. However, an anonymous message leaves her facing an impossible decision.</desc>
-    <icon src="https://img.freeviewplay.tv/p1444817816479a2ec3ae0de4e77894e9?w=800"/>
+  <programme channel="CBBC.uk" start="20250712132500 +0100" stop="20250712135000 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Inside Out. Keeping Team Brawl's secret leaves Ariana torn. Michelle and Eldon take a look back at their past as Anthony avoids confronting his present.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712151000 +0100" stop="20250712152000 +0100">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">Courtney must go all day without correcting her friends, regardless of what they do wrong.</desc>
-    <icon src="https://img.freeviewplay.tv/pfe12d009fb4b08949cdf975f6bbb47a8?w=800"/>
+  <programme channel="CBBC.uk" start="20250712135000 +0100" stop="20250712141500 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Let's Dance Tonight. Pete tries to juggle regionals and the Brawl, while Ethan and Olive become suspicious.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712152000 +0100" stop="20250712153000 +0100">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">A walkie-talkie hidden inside a chili dog causes Harold to worry an alien has arrived.</desc>
-    <icon src="https://img.freeviewplay.tv/pd55181ac1b0277a6a03b77b9b2b7602a?w=800"/>
+  <programme channel="CBBC.uk" start="20250712141500 +0100" stop="20250712144000 +0100">
+    <title lang="en">The Next Step</title>
+    <desc lang="en">Super Massive Mega Star. As the regionals qualifier clashes with the Brawl's, A-Troupe struggle under the weight of all the secrets they have kept from each other.</desc>
+    <icon src="http://img.freeviewplay.net/e90489089fad5f6bf303d72bf5c3af6bb?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712153000 +0100" stop="20250712154000 +0100">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">When Courtney refuses to share her valuable rare toy, friends join forces to question her.</desc>
-    <icon src="https://img.freeviewplay.tv/p1e518a8dee62348a4c879f5a681603a2?w=800"/>
+  <programme channel="CBBC.uk" start="20250712144000 +0100" stop="20250712150500 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">Hard to Live. The fallout from the regionals qualifiers starts to settle. Izzy tries to join Brawl, while Olive considers moving on to cheer, and Kenzie comes back to visit an injured Pete.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712154000 +0100" stop="20250712155500 +0100">
-    <title lang="en">Danger Mouse</title>
-    <desc lang="en">Animated series. The Baron releases a new strain of elephant flu. Can DM and Penfold find the cure before everyone is turned into a snotty elephant?</desc>
-    <icon src="https://img.freeviewplay.tv/p51f8cb9515674180a911e9981fe74ee0?w=800"/>
+  <programme channel="CBBC.uk" start="20250712150500 +0100" stop="20250712153500 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">To the Wolves. Pascale and Heath try to repair their relationship, but the arrival of Daisy throws a wrench in their plans. Ariana and Michelle team up to get A-Troupe back to regionals.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712155500 +0100" stop="20250712160500 +0100">
-    <title lang="en">Danger Mouse</title>
-    <desc lang="en">Animated series. The Queen of Weevils returns and magically convinces Danger Mouse he is a medieval knight on a quest to rescue a fair maiden.</desc>
-    <icon src="https://img.freeviewplay.tv/pd28414b63d33d861786886ff541d1233?w=800"/>
+  <programme channel="CBBC.uk" start="20250712153500 +0100" stop="20250712160000 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">The Comeback. Daisy's return makes things more difficult for Heath. Eldon and Michelle consider parting ways as an injured Pete feels left out of the Brawl.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712160500 +0100" stop="20250712162000 +0100">
-    <title lang="en">Danger Mouse</title>
-    <desc lang="en">Animated series. Duckula kidnaps the writers and Danger Mouse faces being written out of his own show. DM calls on the help of the sound department.</desc>
-    <icon src="https://img.freeviewplay.tv/pa49a2f94ca890a1640782da819493ada?w=800"/>
+  <programme channel="CBBC.uk" start="20250712160000 +0100" stop="20250712162500 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">Take Control. A-Troupers begin to switch over to Team Brawl, but when Olive and Eldon figure out a way back into regionals, Anthony and Ethan have their loyalties tested.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712162000 +0100" stop="20250712163000 +0100">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">The kids' mean neighbour Wanda has started enforcing a dogs-on-leashes law. Boy, Girl, Cheese and Mouse each come up with ideas about how to show that Dog is special and doesn’t need a leash.</desc>
-    <icon src="https://img.freeviewplay.tv/pdf8723c8d7f782d6c8c671fa9819a3ba?w=800"/>
+  <programme channel="CBBC.uk" start="20250712162500 +0100" stop="20250712165000 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">They Say Love. Kenzie helps Pete make a difficult decision. The Brawl's love theme gets in the way of Heath and Daisy fixing their friendship, and Michelle turns to Eldon for Brawl advice.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712163000 +0100" stop="20250712164000 +0100">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">The kids rally to help when Dog admits he is colour blind. Mouse makes him some colour-correction glasses, and Dog is blown away by colour, inspiring him to become an artist.</desc>
-    <icon src="https://img.freeviewplay.tv/pcf67c683814674b034097cf82bfe82d8?w=800"/>
+  <programme channel="CBBC.uk" start="20250712165000 +0100" stop="20250712171500 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">The Music Made Me Do It. Brawl pits Ariana and Michelle against each other as Lucien shakes up regionals rehearsals. Meanwhile, Izzy tries to overcome their dance captain doubts.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712164000 +0100" stop="20250712165500 +0100">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">Mouse is bored of always doing the same things the same way, so Girl suggests he starts thinking outside the box and live his life differently.</desc>
-    <icon src="https://img.freeviewplay.tv/pd58240466c21a6b26183b09425e4d16c?w=800"/>
+  <programme channel="CBBC.uk" start="20250712171500 +0100" stop="20250712174000 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">Always Dramatic. The Brawl kicks off, and A-Troupe is there to support the Brawlers. Meanwhile, Daisy is confronted by her old team as Eldon confronts his nerves.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712165500 +0100" stop="20250712170500 +0100">
-    <title lang="en">Grizzy and the Lemmings</title>
-    <desc lang="en">The Lemmings activate the air conditioner's AI, causing it to fall in love with the fridge</desc>
-    <icon src="https://img.freeviewplay.tv/p54e09a09adf7855a626c534a8050680a?w=800"/>
+  <programme channel="CBBC.uk" start="20250712174000 +0100" stop="20250712180500 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">Got Your Back. Ethan wrestles with an important decision that could impact both the studio and his relationship, while Daisy's plan to save Heath and Pascale's relationship backfires.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712170500 +0100" stop="20250712171000 +0100">
-    <title lang="en">Grizzy and the Lemmings</title>
-    <desc lang="en">Grizzy finds a polar bear and realises they are from the same species.</desc>
-    <icon src="https://img.freeviewplay.tv/p1cb689afd001542531ecfbda6e5efcfc?w=800"/>
+  <programme channel="CBBC.uk" start="20250712180500 +0100" stop="20250712183000 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">End of the Road. It's the final day of the Brawl, and Team Micheldon are going head-to-head with the Masked Sancers as The Next Step's last hope to save the studio.</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
-  <programme channel="CBBC.uk" start="20250712171000 +0100" stop="20250712172500 +0100">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">The witch casts a spell of squeaky voices on the heroes. It will be lifted once they have completed a quest to the Super Creepy Haunted Forest.</desc>
-    <icon src="https://img.freeviewplay.tv/pe37511be85e501039449287ddef18d2b?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712172500 +0100" stop="20250712173500 +0100">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">Hoofius’s next quest will be his 1,000th, so he decides to wait for a really heroic one and insists that his friends quest without him.</desc>
-    <icon src="https://img.freeviewplay.tv/p6721a1465173d7050ebe831f36cb4589?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712173500 +0100" stop="20250712174500 +0100">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">When the heroes are sent on a quest to prevent an ogre from making a mess of the village green, Trevor’s smart mouth puts them all in danger.</desc>
-    <icon src="https://img.freeviewplay.tv/pbc10a55045431109408268b6cc99aaf5?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712174500 +0100" stop="20250712180000 +0100">
-    <title lang="en">The Adventures of Mansour: Age of AI</title>
-    <desc lang="en">Salam City goes dark when the power goes out, but Mansour finds a clever solution.</desc>
-    <icon src="https://img.freeviewplay.tv/pf9fc7e52810177a3801b603b4cf0b803?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712180000 +0100" stop="20250712181000 +0100">
-    <title lang="en">The Adventures of Mansour: Age of AI</title>
-    <desc lang="en">Mansour and friends have a surprising and confusing encounter with a very different Blink.</desc>
-    <icon src="https://img.freeviewplay.tv/p5d071457a6abec7f0701d8494f703c07?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712181000 +0100" stop="20250712183500 +0100">
-    <title lang="en">Total Drama</title>
-    <desc lang="en">Chris responds to the network’s request for a holiday special by making the campers hunt for eggs.</desc>
-    <icon src="https://img.freeviewplay.tv/pc760bf686edd8f6771aabfec957d9833?w=800"/>
-  </programme>
-  <programme channel="CBBC.uk" start="20250712183500 +0100" stop="20250712185800 +0100">
-    <title lang="en">Gremlins: Secrets of the Mogwai</title>
-    <desc lang="en">Sam must choose between keeping Gizmo safe or returning to his normal life.</desc>
-    <icon src="https://img.freeviewplay.tv/pb02e2c477a23bbf8b99db971076c81ae?w=800"/>
+  <programme channel="CBBC.uk" start="20250712183000 +0100" stop="20250712185800 +0100">
+    <title lang="en">New: The Next Step</title>
+    <desc lang="en">Finale. With the Brawl concluded, The Next Step use their recent fame to fundraise, while Lucien plots to destroy the studio once and for all - but not if A-Troupe has anything to say about it!</desc>
+    <icon src="http://img.freeviewplay.net/e4f34938d7e76ad3ca8c3e1821ec9cf10?w=800"/>
   </programme>
   <programme channel="CBBC.uk" start="20250712185800 +0100" stop="20250713053000 +0100">
     <title lang="en">This is CBBC!</title>
@@ -12958,7 +12893,7 @@
   </programme>
   <programme channel="CBeebies.uk" start="20250711185000 +0100" stop="20250711185800 +0100">
     <title lang="en">New: CBeebies Bedtime Stories</title>
-    <desc lang="en">David Corenswet - What Does Daddy Do? David Corenswet tells the story of Daisy who is trying to work out... what exactly does her daddy do? Also in HD.</desc>
+    <desc lang="en">David Corenswet - What Does Daddy Do? David Corenswet tells the story of Daisy, who is trying to work out what her daddy does! Also in HD.</desc>
     <icon src="http://img.freeviewplay.net/eb7f0e67fc8435e60a7f60daa430a4140?w=800"/>
   </programme>
   <programme channel="CBeebies.uk" start="20250711185800 +0100" stop="20250712053000 +0100">
@@ -14834,7 +14769,7 @@
   <programme channel="Channel4.uk" start="20250712233000 +0100" stop="20250713011000 +0100">
     <title lang="en">The Mechanic</title>
     <desc lang="en">(2011) Thriller with Jason Statham and Donald Sutherland. A hitman is ordered to kill his mentor, but then takes on the dead man's son as an apprentice. Could get complicated... and deadly.</desc>
-    <icon src="https://img.freeviewplay.tv/p2a5833e5206baa93cdb203ef161d0e6a?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pf301d23fab859e66a6f100c7780db078?w=800"/>
   </programme>
   <programme channel="Channel4.uk" start="20250713011000 +0100" stop="20250713020000 +0100">
     <title lang="en">Ramsay's Hotel Hell</title>
@@ -17759,7 +17694,7 @@
   <programme channel="Film4.uk" start="20250713014000 +0100" stop="20250713034500 +0100">
     <title lang="en">The Duke of Burgundy</title>
     <desc lang="en">(2014) Peter Strickland's acclaimed adult drama explores the fetishistic desires and balance of power within a lesbian relationship. Starring Sidse Babett Knudsen and Chiara D'Anna.</desc>
-    <icon src="http://img.freeviewplay.net/e572fd274dab8cfa8f8a4998a3c01c276?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pf0463fd3ce81a0500711f04cb4b627d6?w=800"/>
   </programme>
   <programme channel="Film4.uk" start="20250713034500 +0100" stop="20250713070000 +0100">
     <title lang="en">Teleshopping</title>
@@ -17773,8 +17708,8 @@
   </programme>
   <programme channel="Film4.uk" start="20250713110000 +0100" stop="20250713140000 +0100">
     <title lang="en">Howards End</title>
-    <desc lang="en">(1992) Anthony Hopkins, Helena Bonham Carter and Emma Thompson star in James Ivory's adaptation of EM Forster's novel about two families, love, treachery and revenge.</desc>
-    <icon src="https://img.freeviewplay.tv/p17c3e58cb1de1e8d80f7ad44d417dd1a?w=800"/>
+    <desc lang="en">(1992) Romantic drama from Merchant/Ivory starring Anthony Hopkins, Emma Thompson and Helena Bonham Carter. Two families become entwined in both love and business.</desc>
+    <icon src="https://img.freeviewplay.tv/p41e6c07d23ee6c380d3ad488695c6cb5?w=800"/>
   </programme>
   <programme channel="Film4.uk" start="20250713140000 +0100" stop="20250713163500 +0100">
     <title lang="en">The Karate Kid</title>
@@ -17798,8 +17733,8 @@
   </programme>
   <programme channel="Film4.uk" start="20250713234500 +0100" stop="20250714014000 +0100">
     <title lang="en">My Beautiful Laundrette</title>
-    <desc lang="en">(1985) Stephen Frears' comedy-drama starring Saeed Jaffrey and Daniel Day-Lewis. An Asian Londoner gets help setting up a glam laundromat by his lover, a one-time fascist.</desc>
-    <icon src="https://img.freeviewplay.tv/pdc4ed038336590bbf1c4d295638ab0bc?w=800"/>
+    <desc lang="en">(1985) Romantic comedy-drama starring Gordon Warnecke, Daniel Day-Lewis and Saeed Jaffrey. An Asian Londoner is helped to set up a glamorous laundromat by his lover, a one-time fascist.</desc>
+    <icon src="https://img.freeviewplay.tv/pa0a9b8c568a3b64b8bbc4e76fba53c5f?w=800"/>
   </programme>
   <programme channel="Film4.uk" start="20250714014000 +0100" stop="20250714033000 +0100">
     <title lang="en">Primal</title>
@@ -18314,7 +18249,7 @@
   <programme channel="ITV1.uk" start="20250712082500 +0100" stop="20250712092500 +0100">
     <title lang="en">Jimmy &amp; Shivi's Farmhouse Breakfast</title>
     <desc lang="en">Comedian Stephen K Amos joins Jimmy and Shivi for a peach breakfast crumble while vet Henry does his rounds at the wildlife park.</desc>
-    <icon src="https://img.freeviewplay.tv/p286c8b14f02cddfb62912016c4a5d39e?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p2e41b7ca92cbab3a56ba6d53b034f6f9?w=800"/>
   </programme>
   <programme channel="ITV1.uk" start="20250712092500 +0100" stop="20250712093000 +0100">
     <title lang="en">ITV News</title>
@@ -18417,9 +18352,9 @@
     <icon src="https://img.freeviewplay.tv/e6fb74789063bbc905c099a9a7a8c86e9?w=800"/>
   </programme>
   <programme channel="ITV1.uk" start="20250713082500 +0100" stop="20250713092500 +0100">
-    <title lang="en">New: Katie Piper's Weekend Escape</title>
+    <title lang="en">Katie Piper’s Weekend Escape</title>
     <desc lang="en">Katie is joined by Steps' Lee Latchford Evans to make a mini allotment, Michael and Gen transform another charity founder, and JJ Goodman serves up more delicious drinks.</desc>
-    <icon src="https://img.freeviewplay.tv/p8ba219405ea7f63ac2cea3ca149e8dcd?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p3fbc0b604d981c3d3c274d56cdc1a440?w=800"/>
   </programme>
   <programme channel="ITV1.uk" start="20250713092500 +0100" stop="20250713093000 +0100">
     <title lang="en">ITV News</title>
@@ -18739,7 +18674,7 @@
   <programme channel="ITV2.uk" start="20250708200000 +0100" stop="20250708210000 +0100">
     <title lang="en">Million Dollar Listing: LA</title>
     <desc lang="en">Reality series following high-end real estate agents. Altman and Tracy list a historic Hollywood estate that was previously owned by Hollywood legend John Barrymore, and James and David go all-in on a new East Coast-inspired property.</desc>
-    <icon src="https://img.freeviewplay.tv/p8af835b20a3c89a394d2e39d9812d231?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p50c2d194a489e91856337d3ed6e2fcfa?w=800"/>
   </programme>
   <programme channel="ITV2.uk" start="20250708210000 +0100" stop="20250708220500 +0100">
     <title lang="en">New: Love Island</title>
@@ -18883,7 +18818,7 @@
   <programme channel="ITV2.uk" start="20250709150500 +0100" stop="20250709160000 +0100">
     <title lang="en">Million Dollar Listing: LA</title>
     <desc lang="en">Reality series following high-end real estate agents. Altman and Tracy list a historic Hollywood estate that was previously owned by Hollywood legend John Barrymore, and James and David go all-in on a new East Coast-inspired property.</desc>
-    <icon src="https://img.freeviewplay.tv/p8af835b20a3c89a394d2e39d9812d231?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p50c2d194a489e91856337d3ed6e2fcfa?w=800"/>
   </programme>
   <programme channel="ITV2.uk" start="20250709160000 +0100" stop="20250709170000 +0100">
     <title lang="en">The Real Housewives of Miami</title>
@@ -20989,11 +20924,6 @@
     <title lang="en">Teleshopping</title>
     <desc lang="en">Shopping from home.</desc>
     <icon src="https://img.freeviewplay.tv/e1eb2e4835266a51f51f9961acf6b8166?w=800"/>
-  </programme>
-  <programme channel="ITV4.uk" start="20250711060000 +0100" stop="20250711062000 +0100">
-    <title lang="en">The Derby Through the Years</title>
-    <desc lang="en">All the racing, glamour and fun of Derby Day at Epsom Downs, including performances from Shergar and Sea The Stars and interviews with sports and entertainment personalities.</desc>
-    <icon src="https://img.freeviewplay.tv/e111a980c79a1fb239a023725bc4da210?w=800"/>
   </programme>
   <programme channel="ITV4.uk" start="20250711062000 +0100" stop="20250711072500 +0100">
     <title lang="en">Minder</title>
