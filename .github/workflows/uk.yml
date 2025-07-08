@@ -30,6 +30,7 @@ jobs:
         run: |
           mkdir guide
           python freeview-epg.py
+          gzip -c ./guide/epg-uk.xml > ./guide/epg-uk.xml.gz
         
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
