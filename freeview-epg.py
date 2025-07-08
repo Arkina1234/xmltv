@@ -77,7 +77,11 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         now = str(datetime.strftime(datetime.now(), "%Y%m%d"))
         day_1 = str(datetime.strftime(datetime.now() + timedelta(1), "%Y%m%d"))
         day_2 = str(datetime.strftime(datetime.now() + timedelta(2), "%Y%m%d"))
-        return [now, day_1, day_2]
+        day_3 = str(datetime.strftime(datetime.now() + timedelta(3), "%Y%m%d"))
+        day_4 = str(datetime.strftime(datetime.now() + timedelta(4), "%Y%m%d"))
+        day_5 = str(datetime.strftime(datetime.now() + timedelta(5), "%Y%m%d"))
+        day_6 = str(datetime.strftime(datetime.now() + timedelta(6), "%Y%m%d"))
+        return [now, day_1, day_2, day_3, day_4, day_5, day_6]
 
     elif src == "bt":
         now = datetime.now() - timedelta(hours=1)
@@ -91,7 +95,11 @@ Generate epoch times for now, midnight tomorrow, and midnight the next day
         now = math.trunc(datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).timestamp())
         day_1 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(1)).timestamp())
         day_2 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(2)).timestamp())
-        return [now, day_1, day_2]
+        day_3 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(3)).timestamp())
+        day_4 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(4)).timestamp())
+        day_5 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(5)).timestamp())
+        day_6 = math.trunc((datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(6)).timestamp())
+        return [now, day_1, day_2, day_3, day_4, day_5, day_6]
 
     # elif src == "rt":
     #     now = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0).strftime("%Y-%m-%dT%H:%M:%S.000Z")
