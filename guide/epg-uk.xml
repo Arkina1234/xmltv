@@ -593,12 +593,12 @@
     <desc lang="en">Oggy Oggy's yawns are highly contagious!</desc>
     <icon src="https://img.freeviewplay.tv/pcbe3c43e931f222ba60ea35e8b53dda5?w=800"/>
   </programme>
-  <programme channel="Channel5.uk" start="20250710060500 +0100" stop="20250710061500 +0100">
+  <programme channel="Channel5.uk" start="20250710060500 +0100" stop="20250710061000 +0100">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Peppa and friends are at Penny Polar Bear's house for a movie night. But before they can watch it, the children need to decide where to sit, and which popcorn to eat.</desc>
     <icon src="https://img.freeviewplay.tv/p62901f13f3c13dd95ab09c7446155a01?w=800"/>
   </programme>
-  <programme channel="Channel5.uk" start="20250710061500 +0100" stop="20250710062000 +0100">
+  <programme channel="Channel5.uk" start="20250710061000 +0100" stop="20250710062000 +0100">
     <title lang="en">Peppa Pig</title>
     <desc lang="en">Granny Sheep and Suzy take Granny Pig and Peppa around Art House Day. After a day full of screen printing and silhouette miniatures, Granny Pig finds the perfect artwork.</desc>
     <icon src="https://img.freeviewplay.tv/p20c12fe3b5a19ca4fcaf5af284718c20?w=800"/>
@@ -744,8 +744,8 @@
   </programme>
   <programme channel="Channel5.uk" start="20250710180000 +0100" stop="20250710190000 +0100">
     <title lang="en">Dogs Behaving (Very) Badly</title>
-    <desc lang="en">Graeme intervenes with two Löwchens whose hooligan antics are disturbing the peace. And a greedy Groodle causes chaos, stealing food from coffee shop tables and picnics. (Ep3)</desc>
-    <icon src="http://img.freeviewplay.net/e61a6f069b78d15622b3d592cc602b944?w=800"/>
+    <desc lang="en">Model aircraft enthusiast Ray was looking forward to enjoying his retirement with Henry, his latest doggie addition. But this Welsh Terrier loves nothing more than harassing Ray.</desc>
+    <icon src="https://img.freeviewplay.tv/p3af0d04f2f0edc9a1fc7165aa9a8a4dd?w=800"/>
   </programme>
   <programme channel="Channel5.uk" start="20250710190000 +0100" stop="20250710200000 +0100">
     <title lang="en">A Yorkshire Farm</title>
@@ -1583,12 +1583,12 @@
     <icon src="https://img.freeviewplay.tv/pf48cadf3f5b956f558eecce849c52d75?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250708080000 +0100" stop="20250708090000 +0100">
-    <title lang="en">Bargain Loving Brits in the Sun</title>
+    <title lang="en">Bargain-Loving Brits in the Sun</title>
     <desc lang="en">On the Costas, bride-to-be Jessica is running late on the biggest day of her life, and Queen Bee Jenny set off to enjoy a milestone celebration.</desc>
     <icon src="https://img.freeviewplay.tv/p647e705db9980d666f11b144718c5fdb?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250708090000 +0100" stop="20250708100000 +0100">
-    <title lang="en">Bargain Loving Brits in the Sun</title>
+    <title lang="en">Bargain-Loving Brits in the Sun</title>
     <desc lang="en">Jordanne juggles four businesses: an art resin company, a party organisation that sets up outdoor cinemas and kids' sleepovers, home rentals, and an upcycling business.</desc>
     <icon src="https://img.freeviewplay.tv/p36caef8669be0f6a4e9f6365783c9eed?w=800"/>
   </programme>
@@ -1638,7 +1638,7 @@
     <icon src="https://img.freeviewplay.tv/p82c4fd99a9a9f9880b1d279fad3b41ae?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250708183000 +0100" stop="20250708190000 +0100">
-    <title lang="en">Home and Away</title>
+    <title lang="en">New: Home and Away</title>
     <desc lang="en">Cash is offered a clean slate, Remi's talents get noticed and Lacey makes a stand.</desc>
     <icon src="https://img.freeviewplay.tv/p66ae96a0e1d5d8145165ea96c05e0afc?w=800"/>
   </programme>
@@ -1678,12 +1678,12 @@
     <icon src="https://img.freeviewplay.tv/pff546c8e14402806f797c673e16b4bcc?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250709020000 +0100" stop="20250709025000 +0100">
-    <title lang="en">Quantico</title>
+    <title lang="en">New: Quantico</title>
     <desc lang="en">At the Farm, Lydia and Owen teach the group about the necessity of lying and cutting off relationships. Perfect timing for Alex, since she is feeling disconnected from Ryan personally and professionally.</desc>
     <icon src="https://img.freeviewplay.tv/p97cd3a531d8bf2cb124ae84bebc2c87a?w=800"/>
   </programme>
   <programme channel="5STAR.uk" start="20250709025000 +0100" stop="20250709033500 +0100">
-    <title lang="en">Quantico</title>
+    <title lang="en">New: Quantico</title>
     <desc lang="en">The recruits are schooled in the art of seduction, which Alex sees as a perfect opportunity to get closer to Owen - but will it threaten her relationship with Ryan?</desc>
     <icon src="https://img.freeviewplay.tv/p8aca6764c4d564aade60922d18e146d3?w=800"/>
   </programme>
@@ -2863,14 +2863,14 @@
     <icon src="https://img.freeviewplay.tv/p0e9c0367e31ef1b70d30560d2b0100b2?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250709210000 +0100" stop="20250709213000 +0100">
-    <title lang="en">The Context USA</title>
+    <title lang="en">The Context</title>
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://img.freeviewplay.tv/p3ffa26d079c81cc6c09cb3e1517f2b35?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p0e9c0367e31ef1b70d30560d2b0100b2?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250709213000 +0100" stop="20250709220000 +0100">
-    <title lang="en">The Context USA</title>
+    <title lang="en">The Context</title>
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://img.freeviewplay.tv/p3ffa26d079c81cc6c09cb3e1517f2b35?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p0e9c0367e31ef1b70d30560d2b0100b2?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250709220000 +0100" stop="20250709223000 +0100">
     <title lang="en">BBC News at Ten</title>
@@ -3083,14 +3083,14 @@
     <icon src="https://img.freeviewplay.tv/p258a16f2117da12941b69a59b0e7ebd4?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250710210000 +0100" stop="20250710213000 +0100">
-    <title lang="en">The Context USA</title>
+    <title lang="en">The Context</title>
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://img.freeviewplay.tv/p4b855a37554c4f86910b110b9822da2c?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p258a16f2117da12941b69a59b0e7ebd4?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250710213000 +0100" stop="20250710220000 +0100">
-    <title lang="en">The Context USA</title>
+    <title lang="en">The Context</title>
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://img.freeviewplay.tv/p4b855a37554c4f86910b110b9822da2c?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p258a16f2117da12941b69a59b0e7ebd4?w=800"/>
   </programme>
   <programme channel="BBCNews.uk" start="20250710220000 +0100" stop="20250710223000 +0100">
     <title lang="en">BBC World News America</title>
@@ -3160,7 +3160,7 @@
   <programme channel="BBCOneLondon.uk" start="20250708140000 +0100" stop="20250708190000 +0100">
     <title lang="en">Wimbledon</title>
     <desc lang="en">Live tennis continues from the All England Club, where the first of the men’s and ladies’ quarter-finals in the singles is being played.</desc>
-    <icon src="https://img.freeviewplay.tv/p46f4a506c5d758560df5342941a73769?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pbf369121cd2522f4d169d49d03b44170?w=800"/>
   </programme>
   <programme channel="BBCOneLondon.uk" start="20250708190000 +0100" stop="20250708192500 +0100">
     <title lang="en">BBC News at Six</title>
@@ -3382,40 +3382,30 @@
     <desc lang="en">Deb is treated to cream tea on Mother’s Day, but recent news puts her off her scones. Josie is on a mission to get sectioned. Billie means business as Graham’s sugar baby.</desc>
     <icon src="https://img.freeviewplay.tv/padf391314205afb1c14cf23e6e5caac9?w=800"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250708022500 +0100" stop="20250708031500 +0100">
+  <programme channel="BBCParliament.uk" start="20250708011500 +0100" stop="20250708031500 +0100">
+    <title lang="en">House of Lords</title>
+    <desc lang="en">Coverage of the second day of debate in the House of Lords on the report stage of the Renters' Rights Bill, on Monday 7 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p75b32d01f389445620df6362d107171a?w=800"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250708031500 +0100" stop="20250708051500 +0100">
+    <title lang="en">House of Lords</title>
+    <desc lang="en">Coverage of the second day of debate in the House of Lords on the report stage of the Renters' Rights Bill, on Monday 7 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p135c2b115451609f7fb31c7d309032d5?w=800"/>
+  </programme>
+  <programme channel="BBCParliament.uk" start="20250708051500 +0100" stop="20250708060000 +0100">
     <title lang="en">House of Lords</title>
     <desc lang="en">The debate in the House of Lords on a ministerial statement on 'giving every child the best start in life', with the education minister, Baroness Smith of Malvern, on Monday 7 July.</desc>
     <icon src="https://img.freeviewplay.tv/paad4eefae5388fc2245ee7f0954ebe04?w=800"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250708031500 +0100" stop="20250708044000 +0100">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Environmental Audit Committee session on environmental sustainability and housing growth, on Monday 30 June.</desc>
-    <icon src="https://img.freeviewplay.tv/pd1356d106d4318d6d339742ce542b802?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708044000 +0100" stop="20250708054500 +0100">
-    <title lang="en">Westminster Hall</title>
-    <desc lang="en">House of Commons proceedings in Westminster Hall including the debate on an e-petition on fossil fuel advertising and sponsorship, from Monday 7 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p4cd2f71ce4bf8c808e9a267ff1020cd3?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708054500 +0100" stop="20250708060000 +0100">
-    <title lang="en">Ten Minute Rule Bill</title>
-    <desc lang="en">The introduction of a Bill, tabled by Labour MP Ian Byrne, on a duty of candour for public officials in giving evidence to public inquiries and investigations, from Tuesday 1 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p893f08f072e39402f0bfb045ab5a172d?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708060000 +0100" stop="20250708071000 +0100">
+  <programme channel="BBCParliament.uk" start="20250708060000 +0100" stop="20250708070000 +0100">
     <title lang="en">House of Commons</title>
     <desc lang="en">Coverage of questions in the House of Commons to Yvette Cooper, the home secretary, and her team of ministers on Monday 7 July.</desc>
     <icon src="https://img.freeviewplay.tv/pf4fc35ddb833fade2b17d02e4b8230b4?w=800"/>
   </programme>
-  <programme channel="BBCParliament.uk" start="20250708071000 +0100" stop="20250708075000 +0100">
-    <title lang="en">House of Lords</title>
-    <desc lang="en">Coverage of the statement by the leader of the House of Lords, Baroness Smith of Basildon, on the G7 and Nato summits, on Tuesday 1 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p6c8c7967e06bbd216a1822e27eaedb9f?w=800"/>
-  </programme>
-  <programme channel="BBCParliament.uk" start="20250708075000 +0100" stop="20250708100000 +0100">
-    <title lang="en">Select Committees</title>
-    <desc lang="en">Coverage of the defence select committee session with evidence from the defence secretary, John Healey, from Wednesday 3 July.</desc>
-    <icon src="https://img.freeviewplay.tv/p8673a715c8ce54ff876818d955f75d69?w=800"/>
+  <programme channel="BBCParliament.uk" start="20250708070000 +0100" stop="20250708100000 +0100">
+    <title lang="en">House of Commons</title>
+    <desc lang="en">Highlights of proceedings in the House of Commons from Monday 7 July.</desc>
+    <icon src="https://img.freeviewplay.tv/p8595b7d34060d86d28c6352393e164ab?w=800"/>
   </programme>
   <programme channel="BBCParliament.uk" start="20250708100000 +0100" stop="20250708113000 +0100">
     <title lang="en">Select Committees</title>
@@ -3942,6 +3932,11 @@
     <desc lang="en">John and Janie unravel a mystery involving a murder at a school reunion, a cold case and a shocking discovery from Janie’s past. John risks their friendship with unexpected news.</desc>
     <icon src="https://img.freeviewplay.tv/p79780216609ad4217012b479e66d8c31?w=800"/>
   </programme>
+  <programme channel="BBCTwo.uk" start="20250708031000 +0100" stop="20250708063000 +0100">
+    <title lang="en">This is BBC Two</title>
+    <desc lang="en">Highlights of programmes on BBC Two.</desc>
+    <icon src="https://img.freeviewplay.tv/p3eefc63d6825f8304be936c3202c1f37?w=800"/>
+  </programme>
   <programme channel="BBCTwo.uk" start="20250708063000 +0100" stop="20250708070000 +0100">
     <title lang="en">The Moment of Proof</title>
     <desc lang="en">Two young women are shot dead in Birmingham on New Year’s Eve. But it takes an audacious undercover mission for police to infiltrate rival gangs and find the moment of proof.</desc>
@@ -3970,7 +3965,7 @@
   <programme channel="BBCTwo.uk" start="20250708123000 +0100" stop="20250708150000 +0100">
     <title lang="en">Wimbledon</title>
     <desc lang="en">Isa Guha introduces live coverage of the third Grand Slam of the year, with the quarter-finals of the men’s and ladies’ singles due to get under way.</desc>
-    <icon src="https://img.freeviewplay.tv/p474227a04d8f1d3dfe3dfab6583999ad?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pd7022e1c4e3402d2670ffc26512fe513?w=800"/>
   </programme>
   <programme channel="BBCTwo.uk" start="20250708150000 +0100" stop="20250708163000 +0100">
     <title lang="en">Wimbledon</title>
@@ -4567,6 +4562,11 @@
     <desc lang="en">Animated series. A new artificial intelligence running the sub takes over completely. Can Ant outwit AIMY and save the day?</desc>
     <icon src="https://img.freeviewplay.tv/p55e9ed8259c3111253b702e319a7bb8e?w=800"/>
   </programme>
+  <programme channel="CBBC.uk" start="20250709152500 +0100" stop="20250709153500 +0100">
+    <title lang="en">Dennis &amp; Gnasher Unleashed!</title>
+    <desc lang="en">When Dennis thinks Gnasher has trashed a valuable piece of hideous art, the gang try desperately to cover up the damage and produce a decoy that is as convincingly terrible as the original.</desc>
+    <icon src="https://img.freeviewplay.tv/p4fc5d89880a983b655e137d80434250a?w=800"/>
+  </programme>
   <programme channel="CBBC.uk" start="20250709153500 +0100" stop="20250709155000 +0100">
     <title lang="en">Danger Mouse</title>
     <desc lang="en">The Danger Agency is bankrupt! Can a telethon raise enough funds to keep Quark from buying them out?</desc>
@@ -4955,7 +4955,7 @@
   <programme channel="CBeebies.uk" start="20250708082000 +0100" stop="20250708082500 +0100">
     <title lang="en">Wonderblocks</title>
     <desc lang="en">Wonderblock Stop is Go’s new best friend! She loves to think things through. Stop shows her new friends how taking a moment to reflect can help solve all sorts of problems.</desc>
-    <icon src="https://img.freeviewplay.tv/p223ef166d3460885a28e0c937b504416?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p5ac0cda8d5f54c6dbeaebe19c992463b?w=800"/>
   </programme>
   <programme channel="CBeebies.uk" start="20250708082500 +0100" stop="20250708083500 +0100">
     <title lang="en">Love Monster</title>
@@ -5471,11 +5471,6 @@
     <title lang="en">Yakka Dee!</title>
     <desc lang="en">Dee encourages a friend to say ‘m’, and we go on an adventure around the sound. We jump in some mud, drink some milk and meet some musical meerkats!</desc>
     <icon src="https://img.freeviewplay.tv/pd08eb5514347890a73a3db3539e077f7?w=800"/>
-  </programme>
-  <programme channel="CBeebies.uk" start="20250709131000 +0100" stop="20250709131500 +0100">
-    <title lang="en">Numberblocks</title>
-    <desc lang="en">Four and friends bust some big moves on the dance floor with the Four Times Table.</desc>
-    <icon src="https://img.freeviewplay.tv/p61d3a6ac0f990e672563f2a7b87052e1?w=800"/>
   </programme>
   <programme channel="CBeebies.uk" start="20250709131500 +0100" stop="20250709132000 +0100">
     <title lang="en">Alphablocks</title>
@@ -7714,7 +7709,7 @@
   </programme>
   <programme channel="ITV1.uk" start="20250708060000 +0100" stop="20250708090000 +0100">
     <title lang="en">Good Morning Britain</title>
-    <desc lang="en">We're joined by Rachel De Souza as the Children's Commissioner says children in England are now facing near 'Dickensian' levels of poverty, including no heating and no breakfast.</desc>
+    <desc lang="en">Liberty X star Michelle Heaton tells us how Katie Price helped her reach four years sober. Plus, we discuss child poverty with the Children's Commissioner, Rachel De Souza.</desc>
     <icon src="https://img.freeviewplay.tv/p066433de76fcfce19745e9ef836c87a9?w=800"/>
   </programme>
   <programme channel="ITV1.uk" start="20250708090000 +0100" stop="20250708100000 +0100">
@@ -7730,7 +7725,7 @@
   <programme channel="ITV1.uk" start="20250708123000 +0100" stop="20250708133000 +0100">
     <title lang="en">Loose Women</title>
     <desc lang="en">Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
-    <icon src="https://img.freeviewplay.tv/e3417b4b08f49c867505e7dfdf639b376?w=800"/>
+    <icon src="https://img.freeviewplay.tv/pd845b40f163bff725caf174e15517966?w=800"/>
   </programme>
   <programme channel="ITV1.uk" start="20250708133000 +0100" stop="20250708135500 +0100">
     <title lang="en">ITV Lunchtime News</title>
@@ -8204,8 +8199,7 @@
   </programme>
   <programme channel="ITV2.uk" start="20250709023500 +0100" stop="20250709030000 +0100">
     <title lang="en">Unwind with ITV</title>
-    <desc lang="en">Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
-    <icon src="https://img.freeviewplay.tv/ef4e765caf7b788ba7736f3b3806894e7?w=800"/>
+    <desc lang="en"></desc>
   </programme>
   <programme channel="ITV2.uk" start="20250709030000 +0100" stop="20250709040000 +0100">
     <title lang="en">Teleshopping</title>
@@ -8565,7 +8559,7 @@
   <programme channel="ITV3.uk" start="20250708081000 +0100" stop="20250708092000 +0100">
     <title lang="en">Where the Heart Is</title>
     <desc lang="en">Sally decides that she wants a baby, but Billy has other plans, and Anna pretends to be single in order to impress a potential investor.</desc>
-    <icon src="https://img.freeviewplay.tv/p4ccf9460a81989a4999f53d2627e7450?w=800"/>
+    <icon src="https://img.freeviewplay.tv/p8e7c91125387c5c18960107a903ddcf4?w=800"/>
   </programme>
   <programme channel="ITV3.uk" start="20250708092000 +0100" stop="20250708103000 +0100">
     <title lang="en">Where the Heart Is</title>
