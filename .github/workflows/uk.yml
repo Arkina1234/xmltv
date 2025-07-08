@@ -1,4 +1,4 @@
-name: grabbing EPG UK
+name: Build EPG UK
 on:
   schedule:
     - cron: "0 */24 * * *"
@@ -10,13 +10,19 @@ jobs:
   load:
     runs-on: ubuntu-latest
     steps:
+      - name: checkout repo content
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v2
-        if: ${{ !env.ACT }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '18'
-      - run: npm install
-      - run: npm run grab -- --channels=./channels/uk.channels.xml --gzip --output=./guide/epg-uk.xml --days=7
+          python-version: "3.10"
+          cache: 'pip'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: execute py script
+        run: mkdir guide && python freeview-epg.py
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         with:
