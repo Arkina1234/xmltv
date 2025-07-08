@@ -1,4 +1,4 @@
-name: Build EPG UK
+name: build epg uk
 on:
   schedule:
     - cron: "0 */24 * * *"
