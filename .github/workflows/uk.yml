@@ -27,7 +27,9 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script
-        run: mkdir guide && python freeview-epg.py
+        run: |
+          mkdir guide
+          python freeview-epg.py
         
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
