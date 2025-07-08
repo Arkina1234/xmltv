@@ -1,0 +1,229 @@
+{
+  "channels": [
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "4seven.uk",
+      "provider_id": "22528",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "4seven"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "Channel5.uk",
+      "provider_id": "8500",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "5"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "5Action.uk",
+      "provider_id": "16112",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "5ACTION"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "5SELECT.uk",
+      "provider_id": "20256",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "5SELECT"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "5STAR.uk",
+      "provider_id": "12928",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "5STAR"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "5USA.uk",
+      "provider_id": "12992",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "5USA"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCFour.uk",
+      "provider_id": "4544",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC FOUR"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCNews.uk",
+      "provider_id": "4352",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC NEWS"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCOneLondon.uk",
+      "provider_id": "4164",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC ONE Lon"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCParliament.uk",
+      "provider_id": "4736",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC Parliament"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCRedButton1.uk",
+      "provider_id": "7168",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC RB 1"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCThree.uk",
+      "provider_id": "4288",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC THREE"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCTwo.uk",
+      "provider_id": "4287",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "BBC TWO"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "CBBC.uk",
+      "provider_id": "4608",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "CBBC"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "CBeebies.uk",
+      "provider_id": "4672",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "CBeebies"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "Channel4.uk",
+      "provider_id": "8384",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "Channel 4"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "E4.uk",
+      "provider_id": "8448",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "E4"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "E4Extra.uk",
+      "provider_id": "22368",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "E4 Extra"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "Film4.uk",
+      "provider_id": "8385",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "Film4"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "ITV1.uk",
+      "provider_id": "8261",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "ITV1"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "ITV2.uk",
+      "provider_id": "8325",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "ITV2"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "ITV3.uk",
+      "provider_id": "8294",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "ITV3"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "ITV4.uk",
+      "provider_id": "8330",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "ITV4"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "ITVBe.uk",
+      "provider_id": "8340",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "ITV Quiz"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "More4.uk",
+      "provider_id": "8442",
+      "region_id": "64257",
+      "icon_url": "",
+      "name": "More 4"
+    }
+  ]
+}
