@@ -433,8 +433,8 @@
 <programme start="20250711100000 +0000" stop="20250711140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250711140000 +0000" stop="20250711180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250711180000 +0000" stop="20250711220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250711220000 +0000" stop="20250712000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250711220000 +0000" stop="20250712000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250711220000 +0000" stop="20250712000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250712020000 +0000" stop="20250712060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250712060000 +0000" stop="20250712100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250712100000 +0000" stop="20250712140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -1299,8 +1299,8 @@
 <programme start="20250710180000 +0000" stop="20250710190000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250710190000 +0000" stop="20250710200000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250710200000 +0000" stop="20250710223000 +0000" channel="73067"><title lang="en">Ricochet</title></programme>
-<programme start="20250710223000 +0000" stop="20250710230000 +0000" channel="73067"><title lang="en">The Taking of Pelham 123</title></programme>
 <programme start="20250710223000 +0000" stop="20250711000100 +0000" channel="73067"><title lang="en">The Taking of Pelham 123</title></programme>
+<programme start="20250710223000 +0000" stop="20250710230000 +0000" channel="73067"><title lang="en">The Taking of Pelham 123</title></programme>
 <programme start="20250711003000 +0000" stop="20250711030000 +0000" channel="73067"><title lang="en">Déjà Vu</title></programme>
 <programme start="20250711030000 +0000" stop="20250711060000 +0000" channel="73067"><title lang="en">Flight</title></programme>
 <programme start="20250711060000 +0000" stop="20250711080000 +0000" channel="73067"><title lang="en">Kingdom Come</title></programme>
