@@ -432,8 +432,8 @@
 <programme start="20250712100000 +0000" stop="20250712140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250712140000 +0000" stop="20250712180000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250712180000 +0000" stop="20250712220000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
-<programme start="20250712220000 +0000" stop="20250713000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250712220000 +0000" stop="20250713000100 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
+<programme start="20250712220000 +0000" stop="20250713000000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250713020000 +0000" stop="20250713060000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250713060000 +0000" stop="20250713100000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
 <programme start="20250713100000 +0000" stop="20250713140000 +0000" channel="16325"><title lang="en">Classic Arts Showcase</title></programme>
@@ -572,8 +572,8 @@
 <programme start="20250711100000 +0000" stop="20250711140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250711140000 +0000" stop="20250711180000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250711180000 +0000" stop="20250711220000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
-<programme start="20250711220000 +0000" stop="20250712000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250711220000 +0000" stop="20250712000100 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
+<programme start="20250711220000 +0000" stop="20250712000000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250712020000 +0000" stop="20250712060000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250712060000 +0000" stop="20250712100000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
 <programme start="20250712100000 +0000" stop="20250712140000 +0000" channel="30174"><title lang="en">Enlace TV</title></programme>
@@ -1291,8 +1291,8 @@
 <programme start="20250711180000 +0000" stop="20250711190000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250711190000 +0000" stop="20250711200000 +0000" channel="73067"><title lang="en">In the Heat of the Night</title></programme>
 <programme start="20250711200000 +0000" stop="20250711223000 +0000" channel="73067"><title lang="en">Houseguest</title></programme>
-<programme start="20250711223000 +0000" stop="20250711233000 +0000" channel="73067"><title lang="en">Tyler Perry&apos;s Madea&apos;s Witness Protection</title></programme>
 <programme start="20250711223000 +0000" stop="20250712000100 +0000" channel="73067"><title lang="en">Tyler Perry&apos;s Madea&apos;s Witness Protection</title></programme>
+<programme start="20250711223000 +0000" stop="20250711233000 +0000" channel="73067"><title lang="en">Tyler Perry&apos;s Madea&apos;s Witness Protection</title></programme>
 <programme start="20250712010000 +0000" stop="20250712033000 +0000" channel="73067"><title lang="en">Tyler Perry&apos;s Madea&apos;s Family Reunion</title></programme>
 <programme start="20250712033000 +0000" stop="20250712060000 +0000" channel="73067"><title lang="en">The Family That Preys</title></programme>
 <programme start="20250712060000 +0000" stop="20250712080000 +0000" channel="73067"><title lang="en">Barbershop</title></programme>
