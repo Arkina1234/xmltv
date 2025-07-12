@@ -225,11 +225,11 @@ for channel in channels_data:
                 start = int(item['st'])
                 end = int(item['st']) + int(item['d'])
                 if item.get('programmeuuid') is not None:
-                    icon = f"https://images.metadata.sky.com/pd-image/{item['programmeuuid']}/cover"
+                    icon = f"https://images.metadata.sky.com/pd-image/{item['programmeuuid']}/16-9"
                 elif item.get('seasonuuid') is not None:
-                    icon = f"https://images.metadata.sky.com/pd-image/{item['seasonuuid']}/cover"
+                    icon = f"https://images.metadata.sky.com/pd-image/{item['seasonuuid']}/16-9"
                 elif item.get('seriesuuid') is not None:
-                    icon = f"https://images.metadata.sky.com/pd-image/{item['seriesuuid']}/cover"
+                    icon = f"https://images.metadata.sky.com/pd-image/{item['seriesuuid']}/16-9"
                 else:
                     icon = None
                 ch_name = channel.get('xmltv_id')
