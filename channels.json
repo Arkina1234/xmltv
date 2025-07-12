@@ -73,6 +73,15 @@
     {
       "src": "freeview",
       "lang": "en",
+      "xmltv_id": "BBCAlba.uk",
+      "provider_id": "4860",
+      "region_id": "64401",
+      "icon_url": "",
+      "name": "BBC ALBA"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
       "xmltv_id": "BBCFour.uk",
       "provider_id": "4544",
       "region_id": "64257",
@@ -114,6 +123,15 @@
       "region_id": "64257",
       "icon_url": "",
       "name": "BBC RB 1"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "BBCScotland.uk",
+      "provider_id": "4924",
+      "region_id": "64401",
+      "icon_url": "",
+      "name": "BBC Scotland"
     },
     {
       "src": "freeview",
@@ -300,6 +318,14 @@
       "name": "HobbyMakerHD"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "IdealWorld.uk",
+      "provider_id": "1101",
+      "icon_url": "",
+      "name": "Ideal World HD"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "ITV1.uk",
@@ -424,7 +450,8 @@
       "provider_id": "1076",
       "icon_url": "",
       "name": "QVC HD"
-    },
+    },
+
     {
       "src": "sky",
       "lang": "en",
@@ -630,7 +657,3 @@
     }
   ]
 }
-
-
-
-
