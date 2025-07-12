@@ -4,7 +4,7 @@
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "4seven.uk",
-      "provider_id": "22528",
+      "provider_id": "8460",
       "region_id": "64257",
       "icon_url": "",
       "name": "4seven"
@@ -53,6 +53,22 @@
       "region_id": "64257",
       "icon_url": "",
       "name": "5USA"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "AlJazeeraEnglish.qa",
+      "provider_id": "1023",
+      "icon_url": "",
+      "name": "Al Jazeera HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "ArirangWorld.kr",
+      "provider_id": "1066",
+      "icon_url": "",
+      "name": "Arirang TV HD"
     },
     {
       "src": "freeview",
@@ -118,6 +134,22 @@
       "name": "BBC TWO"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Blaze.uk",
+      "provider_id": "1065",
+      "icon_url": "",
+      "name": "BLAZE"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "BloombergTVEurope.us",
+      "provider_id": "1074",
+      "icon_url": "",
+      "name": "Bloomberg HD"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "CBBC.uk",
@@ -136,6 +168,14 @@
       "name": "CBeebies"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Challenge.uk",
+      "provider_id": "2202",
+      "icon_url": "",
+      "name": "Challenge"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "Channel4.uk",
@@ -143,6 +183,38 @@
       "region_id": "64257",
       "icon_url": "",
       "name": "Channel 4"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "CNBCEurope.uk",
+      "provider_id": "1088",
+      "icon_url": "",
+      "name": "CNBC HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "CourtTV.uk",
+      "provider_id": "1207",
+      "icon_url": "",
+      "name": "Court TV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "DaystarTV.us",
+      "provider_id": "5541",
+      "icon_url": "",
+      "name": "DAYSTAR HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "DMAX.uk",
+      "provider_id": "3618",
+      "icon_url": "",
+      "name": "DMAX"
     },
     {
       "src": "freeview",
@@ -170,6 +242,62 @@
       "region_id": "64257",
       "icon_url": "",
       "name": "Film4"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "FoodNetwork.uk",
+      "provider_id": "3590",
+      "icon_url": "",
+      "name": "Food Network"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "France24English.fr",
+      "provider_id": "1121",
+      "icon_url": "",
+      "name": "FRANCE 24 HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "GBNews.uk",
+      "provider_id": "1196",
+      "icon_url": "",
+      "name": "GB News HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "GemsTV.uk",
+      "provider_id": "3010",
+      "icon_url": "",
+      "name": "Gems TV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "GODTV.uk",
+      "provider_id": "3105",
+      "icon_url": "",
+      "name": "GOD Channel"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "HGTV.uk",
+      "provider_id": "2301",
+      "icon_url": "",
+      "name": "HGTV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "HobbyMaker.uk",
+      "provider_id": "1169",
+      "icon_url": "",
+      "name": "HobbyMakerHD"
     },
     {
       "src": "freeview",
@@ -217,6 +345,30 @@
       "name": "ITV Quiz"
     },
     {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "JewelleryMaker.uk",
+      "provider_id": "3354",
+      "icon_url": "",
+      "name": "JewelleryMaker"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Legend.uk",
+      "provider_id": "4610",
+      "icon_url": "",
+      "name": "LEGEND"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "HorrorXtra.uk",
+      "provider_id": "3605",
+      "icon_url": "",
+      "name": "LEGEND XTRA"
+    },
+    {
       "src": "freeview",
       "lang": "en",
       "xmltv_id": "More4.uk",
@@ -224,6 +376,261 @@
       "region_id": "64257",
       "icon_url": "",
       "name": "More 4"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "MustHaveIdeas.uk",
+      "provider_id": "1089",
+      "icon_url": "",
+      "name": "MstHveIdeasHD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "NHKWorldJapan.jp",
+      "provider_id": "3147",
+      "icon_url": "",
+      "name": "NHK World HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "PBSAmerica.uk",
+      "provider_id": "5500",
+      "icon_url": "",
+      "name": "PBS America"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Quest.uk",
+      "provider_id": "6761",
+      "icon_url": "",
+      "name": "QUEST"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "QuestRed.uk",
+      "provider_id": "2411",
+      "icon_url": "",
+      "name": "Quest Red"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "QVC.uk",
+      "provider_id": "1076",
+      "icon_url": "",
+      "name": "QVC HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "QVCBeauty.uk",
+      "provider_id": "4105",
+      "icon_url": "",
+      "name": "QVC Beauty"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "QVCExtra.uk",
+      "provider_id": "3359",
+      "icon_url": "",
+      "name": "QVC Extra"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "QVCStyle.uk",
+      "provider_id": "1118",
+      "icon_url": "",
+      "name": "QVC Style HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Really.uk",
+      "provider_id": "2325",
+      "icon_url": "",
+      "name": "Really"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "RevelationTV.uk",
+      "provider_id": "3116",
+      "icon_url": "",
+      "name": "revelation"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "S4C.uk",
+      "provider_id": "8456",
+      "region_id": "64417",
+      "icon_url": "",
+      "name": "S4C"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SkyArts.uk",
+      "provider_id": "1752",
+      "icon_url": "",
+      "name": "Sky Arts"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SkyMix.uk",
+      "provider_id": "1831",
+      "icon_url": "",
+      "name": "Sky Mix HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SkyNews.uk",
+      "provider_id": "1404",
+      "icon_url": "",
+      "name": "Sky News"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "SBNTVInternational.us",
+      "provider_id": "3392",
+      "icon_url": "",
+      "name": "SonLife"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "STV.uk",
+      "provider_id": "8273",
+      "region_id": "64401",
+      "icon_url": "",
+      "name": "STV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TalkingPicturesTV.uk",
+      "provider_id": "5252",
+      "icon_url": "",
+      "name": "TalkingPictures"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "ThatsTV.uk",
+      "provider_id": "1017",
+      "icon_url": "",
+      "name": "That's TV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Thats70s.uk",
+      "provider_id": "1311",
+      "icon_url": "",
+      "name": "That's TV 2"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TJC.uk",
+      "provider_id": "1113",
+      "icon_url": "",
+      "name": "TJC HD"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TogetherTV.uk",
+      "provider_id": "1872",
+      "icon_url": "",
+      "name": "Together"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "TRTWorld.tr",
+      "provider_id": "5071",
+      "icon_url": "",
+      "name": "TRT World"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "CBSReality.uk",
+      "provider_id": "3352",
+      "icon_url": "",
+      "name": "TRUE CRIME"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "RealityXtra.uk",
+      "provider_id": "3617",
+      "icon_url": "",
+      "name": "TRUE CRIME X"
+    },
+    {
+      "src": "freeview",
+      "lang": "en",
+      "xmltv_id": "UTV.uk",
+      "provider_id": "8276",
+      "region_id": "64425",
+      "icon_url": "",
+      "name": "UTV"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Dave.uk",
+      "provider_id": "2306",
+      "icon_url": "",
+      "name": "U&Dave"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Drama.uk",
+      "provider_id": "2612",
+      "icon_url": "",
+      "name": "U&Drama"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Eden.uk",
+      "provider_id": "2302",
+      "icon_url": "",
+      "name": "U&Eden"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "W.uk",
+      "provider_id": "2617",
+      "icon_url": "",
+      "name": "U&W"
+    },
+    {
+      "src": "sky",
+      "lang": "en",
+      "xmltv_id": "Yesterday.uk",
+      "provider_id": "2305",
+      "icon_url": "",
+      "name": "U&Yesterday"
     }
   ]
 }
+
+
+
+
