@@ -17,12 +17,4 @@ jobs:
           node-version: '18'
       - run: npm install
       - run: npm run grab -- --channels=./channels/it.channels.xml --gzip --output=./guide/epg-it.xml --days=7
-      - uses: JamesIves/github-pages-deploy-action@v4
-        if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
-        with:
-          folder: .
-          git-config-name: github-actions[bot]
-          git-config-email: github-actions[bot]@users.noreply.github.com
-          commit-message: 'Update EPG'
-          clean: false
-          force: false
+      - uses: ./.github/workflows/_load.yml
