@@ -3,9 +3,6 @@ name: Build EPG UK
 on:
   schedule:
     - cron: "0 */24 * * *"
-  push:
-    branches:
-      - master
   workflow_dispatch:
   
 jobs:
