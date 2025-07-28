@@ -17,4 +17,5 @@ jobs:
           node-version: '18'
       - run: npm install
       - run: npm run grab -- --channels=./channels/it.channels.xml --gzip --output=./guide/epg-it.xml --days=7
-      - uses: ./.github/workflows/_load.yml
+    call_reusable_workflow:
+      uses: Arkina1234/epg/.github/workflows/_load.yml@master
