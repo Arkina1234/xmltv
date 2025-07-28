@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="20.it" site_id="LB">20 Mediaset</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Boing.it" site_id="KB">Boing</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Canale5.it" site_id="C5">Canale 5</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Cartoonito.it" site_id="LA">Cartoonito</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Focus.it" site_id="FU">Focus</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Iris.it" site_id="KI">Iris</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia1.it" site_id="I1">Italia 1</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia2.it" site_id="I2">Italia 2</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="La5.it" site_id="KA">La5</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="MediasetExtra.it" site_id="KQ">Mediaset Extra</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai1.it" site_id="rai-1">RAI 1</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai2.it" site_id="rai-2">RAI 2</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai3.it" site_id="rai-3">RAI 3</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai4.it" site_id="rai-4">RAI 4</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai5.it" site_id="rai-5">RAI 5</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiGulp.it" site_id="rai-gulp">RAI GULP</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiMovie.it" site_id="rai-movie">RAI MOVIE</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiNews24.it" site_id="rai-news-24">RAI NEWS 24</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiPremium.it" site_id="rai-premium">RAI PREMIUM</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiScuola.it" site_id="rai-scuola">RAI SCUOLA</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiSport.it" site_id="rai-sport">RAI SPORT</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiStoria.it" site_id="rai-storia">RAI STORIA</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiYoyo.it" site_id="rai-yoyo">RAI YOYO</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Rete4.it" site_id="R4">Rete 4</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TopCrime.it" site_id="LT">Top Crime</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TGCom24.it" site_id="KF">TGCom 24</channel>
+</channels>
