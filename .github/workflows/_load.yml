@@ -1,16 +1,19 @@
 name: _load
 on:
-
   workflow_dispatch:
 
 jobs:
   load:
-    uses: JamesIves/github-pages-deploy-action@v4
-    if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
-    with:
-      folder: .
-      git-config-name: github-actions[bot]
-      git-config-email: github-actions[bot]@users.noreply.github.com
-      commit-message: 'Update EPG'
-      clean: false
-      force: false
+    runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+    
+        - uses: JamesIves/github-pages-deploy-action@v4
+          if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
+          with:
+            folder: .
+            git-config-name: github-actions[bot]
+            git-config-email: github-actions[bot]@users.noreply.github.com
+            commit-message: 'Update EPG'
+            clean: false
+            force: false
