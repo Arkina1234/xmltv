@@ -1,10 +1,10 @@
-name: it
+name: Build EPG Italy
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
 jobs:
-  load1:
+  load:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
