@@ -4,13 +4,23 @@
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Boing.it" site_id="KB">Boing</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Canale5.it" site_id="C5">Canale 5</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Cartoonito.it" site_id="LA">Cartoonito</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Cielo.it" site_id="DTH#8133">cielo</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Cine34.it" site_id="B6">Cine34</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="DMAX.it" site_id="DTH#8933">DMAX HD</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Focus.it" site_id="FU">Focus</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="FoodNetwork.it" site_id="DTH#10534">Food Network HD</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Frisbee.it" site_id="DTH#6610">-frisbee-</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="HGTV.it" site_id="DTH#11154">HGTV HD</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Iris.it" site_id="KI">Iris</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia1.it" site_id="I1">Italia 1</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia2.it" site_id="I2">Italia 2</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="K2.it" site_id="DTH#6240">K2</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="La5.it" site_id="KA">La5</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="LA7.it" site_id="DTH#319">LA7 HD</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="LA7d.it" site_id="DTH#6624">LA7D</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="MediasetExtra.it" site_id="KQ">Mediaset Extra</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="MotorTrend.it" site_id="DTH#8130">Motor Trend HD</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Nove.it" site_id="DTH#9753">NOVE HD</channel>
   <channel site="raiplay.it" lang="it" xmltv_id="Rai1.it" site_id="rai-1">RAI 1</channel>
   <channel site="raiplay.it" lang="it" xmltv_id="Rai2.it" site_id="rai-2">RAI 2</channel>
   <channel site="raiplay.it" lang="it" xmltv_id="Rai3.it" site_id="rai-3">RAI 3</channel>
@@ -24,8 +34,12 @@
   <channel site="raiplay.it" lang="it" xmltv_id="RaiSport.it" site_id="rai-sport">RAI SPORT</channel>
   <channel site="raiplay.it" lang="it" xmltv_id="RaiStoria.it" site_id="rai-storia">RAI STORIA</channel>
   <channel site="raiplay.it" lang="it" xmltv_id="RaiYoyo.it" site_id="rai-yoyo">RAI YOYO</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="RealTime.it" site_id="DTH#8173">Real Time HD</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Rete4.it" site_id="R4">Rete 4</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyTG24.it" site_id="DTH#9117">Sky TG24</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Super.it" site_id="DTH#6460">Super!</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TopCrime.it" site_id="LT">Top Crime</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TGCom24.it" site_id="KF">TGCom 24</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="TV8.it" site_id="DTH#8195">TV8 HD</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Twentyseven.it" site_id="TS">Twentyseven</channel>
 </channels>
