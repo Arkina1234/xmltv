@@ -10,6 +10,7 @@
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Focus.it" site_id="FU">Focus</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="FoodNetwork.it" site_id="DTH#10534">Food Network HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="Frisbee.it" site_id="DTH#6610">-frisbee-</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Giallo.it" site_id="DTH#8131">GIALLO HD</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="HGTV.it" site_id="DTH#11154">HGTV HD</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Iris.it" site_id="KI">Iris</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia1.it" site_id="I1">Italia 1</channel>
