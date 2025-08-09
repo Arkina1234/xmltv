@@ -1,4 +1,4 @@
-name: tvtv.us
+git tvtv.us
 on:
   schedule:
     - cron: "0 5 * * *"
@@ -18,7 +18,7 @@ jobs:
         if: ${{ !env.ACT }}
         with:
           node-version: '18'
-      - git clone --depth 1 -b master https://github.com/iptv-org/epg.git && cd epg
+      - run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git && cd epg
       - run: npm install
       - run: npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3
       - uses: JamesIves/github-pages-deploy-action@v4
