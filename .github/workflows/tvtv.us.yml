@@ -24,7 +24,7 @@ jobs:
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         with:
-          folder: ./guide
+          folder: ../guide
           git-config-name: github-actions[bot]
           git-config-email: github-actions[bot]@users.noreply.github.com
           commit-message: 'Update EPG'
