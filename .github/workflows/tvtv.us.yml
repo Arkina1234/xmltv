@@ -6,6 +6,7 @@ on:
     branches:
       - master
     paths:
+      - '.github/workflows/tvtv.us.yml'
       - 'channels/tvtv.us.channels.xml'
   workflow_dispatch:
 jobs:
