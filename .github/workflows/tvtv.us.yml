@@ -1,4 +1,4 @@
-git tvtv.us
+: tvtv.us
 on:
   schedule:
     - cron: "0 5 * * *"
