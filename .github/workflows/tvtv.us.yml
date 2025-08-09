@@ -20,7 +20,8 @@ jobs:
           node-version: '18'
       - run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git && cd epg
       - run: npm install
-      - run: npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 && cd .. && rm -r epg
+      - run: npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml --days=3 
+      - run: cd .. && rm -rf ..epg
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         with:
