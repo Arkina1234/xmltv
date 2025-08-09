@@ -2,6 +2,7 @@
 <channels>
   <channel site="tvtv.us" lang="en" xmltv_id="" site_id="15218">Programming Unavailable (PRGNOT)</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="73067" site_id="73067">Bounce TV</channel>
+  <channel site="tvtv.us" lang="en" xmltv_id="21855" site_id="21855">BYU-TV</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="16325" site_id="16325">Classic Arts Showcase</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="111043" site_id="111043">Court TV</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="48990" site_id="48990">Create</channel>
