@@ -18,13 +18,12 @@ jobs:
         if: ${{ !env.ACT }}
         with:
           node-version: '18'
-      - run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git && cd epg
       - run: npm install
       - run: npm run grab -- --channels=./channels/tvtv.us.channels.xml --gzip --output=./guide/tvtv.us.xml
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         with:
-          folder: ../guide
+          folder: .
           git-config-name: github-actions[bot]
           git-config-email: github-actions[bot]@users.noreply.github.com
           commit-message: 'Update EPG'
