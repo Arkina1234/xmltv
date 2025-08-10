@@ -6,7 +6,7 @@ module.exports = {
   site: 'tvtv.us',
   days: 2,
   url({ date, channel }) {
-    return `https://www.tvtv.us/api/v1/lineup/USA-NY71652-X/grid/${date.toJSON()}/${date
+    return `https://cors-anywhere.com/https://www.tvtv.us/api/v1/lineup/USA-NY71652-X/grid/${date.toJSON()}/${date
       .add(1, 'day')
       .toJSON()}/${channel.site_id}`
   },
