@@ -7,6 +7,8 @@ on:
       - master
     paths:
       - '.github/workflows/tvtv.us.yml'
+      - 'tvtv_grab.py'
+      - 'channels/tvtv.channels.py'
   workflow_dispatch:
 jobs:
   load:
