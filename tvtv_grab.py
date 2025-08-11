@@ -24,14 +24,14 @@ def generate_xmltv():
         display_name = ET.SubElement(channel_elem, 'display-name')
         display_name.text = channel['channel_name']
     
-    # Get current date and date 3 days from now
+    # Get current date and date 1 days from now
     today = datetime.now()
-    end_date = today + timedelta(days=3)
+    end_date = today + timedelta(days=1)
     
     # Fetch program data for each channel
     for channel in channels:
         # Construct API URL
-        url = f"https://cors-anywhere.com/https://www.tvtv.us/api/v1/lineup/USA-GNSTR-X/grid/{today.isoformat() + 'Z'}/{end_date.isoformat() + 'Z'}/{channel['origin']}"
+        url = f"https://www.tvtv.us/api/v1/lineup/USA-GNSTR-X/grid/{today.isoformat() + 'Z'}/{end_date.isoformat() + 'Z'}/{channel['origin']}"
         
         try:
             response = requests.get(url)
@@ -40,7 +40,7 @@ def generate_xmltv():
             
             for program in programs:
                 # Fetch detailed program info
-                program_url = f"https://cors-anywhere.com/https://tvtv.us/api/v1/programs/{program['programId']}"
+                program_url = f"https://tvtv.us/api/v1/programs/{program['programId']}"
                 program_detail = requests.get(program_url).json()
                 
                 # Create program element
