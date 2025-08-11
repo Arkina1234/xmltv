@@ -6,7 +6,7 @@ from xml.dom import minidom
 
 def generate_xmltv():
     # Load channels data
-    with open('channels.json') as f:
+    with open('./channels/tvtv.channels.json') as f:
         channels = json.load(f)
     
     # Create XMLTV root element
@@ -75,7 +75,7 @@ def generate_xmltv():
     pretty_xml = reparsed.toprettyxml(indent="  ")
     
     # Save to file
-    with open('tvguide.xml', 'w') as f:
+    with open('./guide/tvguide.xml', 'w') as f:
         f.write(pretty_xml)
 
 def format_time(timestamp):
