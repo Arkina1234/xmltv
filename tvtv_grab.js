@@ -12,7 +12,7 @@ const channels = [
     }
     // Add more channels as needed
 ];
-const outputFile = 'guide.xml';
+const outputFile = './guide/guide.xml';
 const daysToFetch = 1; // Number of days to fetch
 
 // XMLTV Generator
