@@ -1,90 +1,87 @@
 import requests
-from datetime import datetime, timedelta
 import json
-from dateutil.parser import parse
+from datetime import datetime, timedelta
+import xml.etree.ElementTree as ET
+from xml.dom import minidom
 
-class TVTVAPI:
-    def __init__(self, lineup_id="USA-GNSTR-X"):
-        self.base_url = "https://www.tvtv.us/api/v1"
-        self.lineup_id = lineup_id
+def generate_xmltv():
+    # Load channels data
+    with open('channels.json') as f:
+        channels = json.load(f)
     
-    def get_channel_grid(self, channel_id, days=3):
-        """Get programming grid for a channel"""
-        today = datetime.now()
-        end_date = today + timedelta(days=days)
-        
-        url = f"{self.base_url}/lineup/{self.lineup_id}/grid/{today.isoformat()}/{end_date.isoformat()}/{channel_id}"
-        response = requests.get(url)
-        return response.json()
+    # Create XMLTV root element
+    tv = ET.Element('tv')
+    tv.set('source-info-url', 'https://www.tvtv.us/')
+    tv.set('source-info-name', 'TVTV.us')
+    tv.set('generator-info-name', 'XMLTV Python Script')
+    tv.set('generator-info-url', '')
     
-    def get_program_details(self, program_id):
-        """Get detailed program information"""
-        url = f"{self.base_url}/programs/{program_id}"
-        response = requests.get(url)
-        return response.json()
-
-class XMLTVGenerator:
-    @staticmethod
-    def generate_xmltv(channels):
-        """Generate XMLTV formatted output"""
-        xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
-        xml += '<!DOCTYPE tv SYSTEM "xmltv.dtd">\n'
-        xml += '<tv source-info-url="https://www.tvtv.us" source-info-name="TVTV.us">\n'
+    # Add channels
+    for channel in channels:
+        channel_elem = ET.SubElement(tv, 'channel')
+        channel_elem.set('id', channel['channel_id'])
         
-        # Add channels
-        for channel in channels:
-            channel_id = channel['channel_id']
-            xml += f'  <channel id="{channel_id}">\n'
-            xml += f'    <display-name>{channel["channel_name"]}</display-name>\n'
-            xml += '  </channel>\n'
+        display_name = ET.SubElement(channel_elem, 'display-name')
+        display_name.text = channel['channel_name']
+    
+    # Get current date and date 3 days from now
+    today = datetime.now()
+    end_date = today + timedelta(days=3)
+    
+    # Fetch program data for each channel
+    for channel in channels:
+        # Construct API URL
+        url = f"https://www.tvtv.us/api/v1/lineup/USA-GNSTR-X/grid/{today.isoformat()}/{end_date.isoformat()}/{channel['origin']}"
+        
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            programs = response.json()
             
-            # Get program data
-            api = TVTVAPI()
-            grid = api.get_channel_grid(channel_id)
-            
-            # Add programs
-            for program in grid.get('programs', []):
-                start = parse(program['startTime']).strftime('%Y%m%d%H%M%S %z')
-                end = parse(program['endTime']).strftime('%Y%m%d%H%M%S %z')
+            for program in programs:
+                # Fetch detailed program info
+                program_url = f"https://tvtv.us/api/v1/programs/{program['programId']}"
+                program_detail = requests.get(program_url).json()
                 
-                xml += f'  <programme start="{start}" stop="{end}" channel="{channel_id}">\n'
-                xml += f'    <title>{program["title"]}</title>\n'
+                # Create program element
+                programme = ET.SubElement(tv, 'programme')
+                programme.set('start', format_time(program['startTime']))
+                programme.set('stop', format_time(program['endTime']))
+                programme.set('channel', channel['channel_id'])
                 
-                # Get additional program details
-                details = api.get_program_details(program['programId'])
-                if details.get('episodeTitle'):
-                    xml += f'    <sub-title>{details["episodeTitle"]}</sub-title>\n'
-                if details.get('shortDescription'):
-                    xml += f'    <desc>{details["shortDescription"]}</desc>\n'
-                if details.get('longDescription'):
-                    xml += f'    <desc lang="en">{details["longDescription"]}</desc>\n'
+                # Add program details
+                title = ET.SubElement(programme, 'title')
+                title.set('lang', 'en')
+                title.text = program_detail.get('title', 'Unknown')
                 
-                # Add categories if available
-                for genre in details.get('genres', []):
-                    xml += f'    <category>{genre}</category>\n'
+                if 'description' in program_detail:
+                    desc = ET.SubElement(programme, 'desc')
+                    desc.set('lang', 'en')
+                    desc.text = program_detail['description']
                 
-                xml += '  </programme>\n'
-        
-        xml += '</tv>'
-        return xml
-
-# Example usage
-if __name__ == "__main__":
-    # Your channel data
-    channels = [
-        {
-            "origin": "33453",
-            "channel_name": "PBS HD",
-            "channel_id": "33453"
-        }
-        # Add more channels as needed
-    ]
+                if 'episodeTitle' in program_detail:
+                    sub_title = ET.SubElement(programme, 'sub-title')
+                    sub_title.set('lang', 'en')
+                    sub_title.text = program_detail['episodeTitle']
+                
+                # Add more details as needed (category, episode-num, etc.)
+                
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching data for {channel['channel_name']}: {e}")
     
-    generator = XMLTVGenerator()
-    xmltv_content = generator.generate_xmltv(channels)
+    # Generate XML string
+    rough_string = ET.tostring(tv, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    pretty_xml = reparsed.toprettyxml(indent="  ")
     
     # Save to file
-    with open('./guide/tvtv_guide.xml', 'w') as f:
-        f.write(xmltv_content)
-    
-    print("XMLTV file generated successfully!")
+    with open('tvguide.xml', 'w') as f:
+        f.write(pretty_xml)
+
+def format_time(timestamp):
+    # Convert timestamp to XMLTV format
+    dt = datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%SZ')
+    return dt.strftime('%Y%m%d%H%M%S %z')
+
+if __name__ == '__main__':
+    generate_xmltv()
