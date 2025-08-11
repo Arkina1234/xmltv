@@ -84,7 +84,7 @@ if __name__ == "__main__":
     xmltv_content = generator.generate_xmltv(channels)
     
     # Save to file
-    with open('tvtv_guide.xml', 'w') as f:
+    with open('./guide/tvtv_guide.xml', 'w') as f:
         f.write(xmltv_content)
     
     print("XMLTV file generated successfully!")
