@@ -31,7 +31,7 @@ def generate_xmltv():
     # Fetch program data for each channel
     for channel in channels:
         # Construct API URL
-        url = f"https://cors-anywhere.com/https://www.tvtv.us/api/v1/lineup/USA-GNSTR-X/grid/{today.isoformat()}/{end_date.isoformat()}/{channel['origin']}"
+        url = f"https://cors-anywhere.com/https://www.tvtv.us/api/v1/lineup/USA-GNSTR-X/grid/{today.isoformat() + 'Z'}/{end_date.isoformat() + 'Z'}/{channel['origin']}"
         
         try:
             response = requests.get(url)
