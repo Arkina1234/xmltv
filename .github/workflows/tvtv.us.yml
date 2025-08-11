@@ -7,7 +7,7 @@ on:
       - master
     paths:
       - '.github/workflows/tvtv.us.yml'
-      - 'tvtv_grab.py'
+      - 'tvtv_grab.js'
       - 'channels/tvtv.channels.json'
   workflow_dispatch:
 jobs:
@@ -15,14 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v2
         if: ${{ !env.ACT }}
         with:
-          python-version: "3.10"
-          cache: 'pip'
-      - run: python -m pip install --upgrade pip
-      - run: pip install requests
-      - run: mkdir guide && python tvtv_grab.py
+          node-version: '18'
+      - run: npm install axios xml2js moment
+      - run: mkdir guide && node tvtv_grab.js
       - uses: JamesIves/github-pages-deploy-action@v4
         if: ${{ !env.ACT && github.ref == 'refs/heads/master' }}
         with:
